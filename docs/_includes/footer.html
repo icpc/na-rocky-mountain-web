@@ -1,0 +1,15 @@
+<!-- Start Footer -->
+<footer class="main-footer">
+    <div class="container-fluid">
+        
+        <ul class="social">
+            {% if site.data.main.facebook %}<li><a href="{{ site.data.main.facebook }}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>{% endif %}
+            {% if site.data.main.twitter %}<li><a href="{{ site.data.main.twitter }}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>{% endif %}
+            {% if site.data.main.instagram %}<li><a href="{{ site.data.main.instagram }}" target="_blank"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>{% endif %}
+        </ul>
+
+        <small>{% if site.data.main.copyright %} {{ site.data.main.copyright }} {% endif %}</small>
+
+    </div>
+</footer>
+<!-- End Footer -->

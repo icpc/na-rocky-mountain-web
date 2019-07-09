@@ -1,0 +1,26 @@
+# banner - top - sponsors
+main:
+  - name: Two Sigma
+    logo: TwoSigma.png
+
+  - name: Jet Brains
+    logo: JetBrains.png
+
+# all sponsors
+sponsors:
+  - name: ICPC Foundation
+    logo: icpc-foundation.png # must be placed inside img/sponsors folder
+    url: https://icpc.foundation/
+    logot_alt: ICPC Foundation
+
+  - name: ACM Denver Chapter
+    logo: acm-denver.svg
+    url: https://www.acm.org/
+    logot_alt: ACM Denver
+
+  - name: Your Company Name Here
+    logo: small2.jpg
+    url: yourcompany.com
+    logo_alt: Company Logo
+
+

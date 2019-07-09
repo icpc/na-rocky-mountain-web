@@ -1,0 +1,24 @@
+# sites that hosts regional contests
+- name: Colorado Mesa University
+  location: Grand Junction, Colorado
+  url: https://rm-na.icpc.io/cmu/
+
+- name: Colorado School of Mines
+  location: Golden, Colorado
+  url: https://rm-na.icpc.io/cmu/
+
+- name: Colorado State University
+  location: Fort Collins, Colorado
+  url: https://rm-na.icpc.io/csu/
+
+- name: University of Arizona
+  location: Tucson, Arizona
+  url: https://rm-na.icpc.io/uofa
+
+- name: Montana Tech
+  location: Butte, Montana
+  url: https://rm-na.icpc.io/mt/
+
+- name: University of Saskatchewan
+  location: Saskatoon, Canada
+  url: https://rm-na.icpc.io/uofs

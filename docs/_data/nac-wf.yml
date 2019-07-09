@@ -1,0 +1,17 @@
+# NA Championship Host info
+nac:
+  icon: icon-trophy
+  name: Georgia Tech
+  country: USA
+  url: https://www.gatech.edu
+  year: 2020
+  email: contact@hostsite
+
+# World Finals Host info Info
+world_final:
+  icon: icon-globe
+  name: Moscow Institute of Physics and Technology
+  country: Russia
+  url: https://icpc.baylor.edu/
+  year: 2020
+  email: contact@hostsite

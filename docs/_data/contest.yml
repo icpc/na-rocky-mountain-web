@@ -1,0 +1,38 @@
+# data for contest information
+year: 2019 # contest year
+
+date:
+    regular: October 15 # regular registration deadline
+    late: October 22 # late registration deadline
+    practice: October 25
+    contest: October 26
+
+# registration fees for different countries participating in the region
+fees:
+    - country: US Universities
+      regular: 85 USD per team
+      late: 160 USD per team
+      check:
+          payable: Denver ACM # payable to
+          address:
+              - address: Denver ACM
+              - address: P.O. Box 440785
+              - address: Aurora, CO 80044
+          note: No purchase orders. Checks MUST have the school name on the memo line.
+      credit:
+          note:
+              Credit cards accepted through PayPal! Go to <a href="https://www.paypal.com" target="_blank">Paypal</a>
+              and select the Send Money tab. The email address to send money to blanche@acm.org, who is our accountant.
+              Be sure the school name is documented.
+    - country: Canadian Universities
+      regular: 85 CAN per team
+      late: 160 CAN per team
+      check:
+          payable: University of Saskachewan # payable to
+          address:
+              - address: Shakiba Jalal
+              - address: Dept. of Computer Science
+              - address: University of Saskatchewan
+              - address: 176 Thorvaldson, 110 Science Place
+              - address: Saskatoon, SK S7N3Z9
+          note: Checks MUST have the school name on the memo line.

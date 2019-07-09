@@ -1,0 +1,35 @@
+# Site settings
+title: RMC-NA ICPC | Rocky Mountain Regional Programming Contest
+description: Rocky Mountain Regional Collegiate Programming Contest
+logo_url: /img/icpc-rmc-na-logo.png
+
+# Banner
+banner: 
+  bg-img: /img/NorthAmerica.png
+  image: /img/mountains.png #banner image on left side
+  title: Rocky Mountain Regional Contest (RMC)
+  title2: A North American Regional
+  description: International Collegiate Programming Contest (ICPC)
+
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+sponsorship_contact:
+  name: Ram Basnet
+  title: Event Coordinator
+  email: rbasnet@coloradomesa.edu
+
+# Social settings
+facebook: https://facebook.com/icpcnac
+twitter: https://twitter.com/icpcnac
+instagram: https://instagram.com/icpcnac
+
+# Footer
+copyright: © 2019 RMC ICPC - All rights reserved
+
+# Theme Settings
+analytics: 
+google_verification:
+
