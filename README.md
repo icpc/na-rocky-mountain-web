@@ -74,6 +74,8 @@ cd $REPO/docs
 bundle install
 
 bundle exec jekyll serve --host 0.0.0.0
+
+#in another window
 xdg-open http://localhost:4000
 ````
 
