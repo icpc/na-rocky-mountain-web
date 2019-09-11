@@ -9,7 +9,7 @@
 
     <title>RMC-NA ICPC | Rocky Mountain Regional Programming Contest</title>
     <meta name="description" content="">
-    <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
+    <link rel="alternate" type="application/rss+xml" href="http://0.0.0.0:4000/feed.xml">
 
     <!-- Stylesheet -->
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -64,24 +64,46 @@
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <button
+                type="button"
+                class="navbar-toggle collapsed"
+                data-toggle="collapse"
+                data-target="#bs-example-navbar-collapse-1"
+                aria-expanded="false"
+            >
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand scroll" href=""><img src="/img/icpc-rmc-na-logo.png" alt="RMC-NA ICPC | Rocky Mountain Regional Programming Contest"></a>
+            <a class="navbar-brand scroll" href="http://0.0.0.0:4000"
+                ><img
+                    src="/img/icpc-rmc-na-logo.png"
+                    alt="RMC-NA ICPC | Rocky Mountain Regional Programming Contest"
+            /></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
+        <div
+            class="collapse navbar-collapse scrollspy"
+            id="bs-example-navbar-collapse-1"
+        >
             <ul class="nav navbar-nav navbar-right">
-                <li><a class="scroll" style="color:white;" href="">Home</a></li>
+                <li>
+                    <a
+                        class="scroll"
+                        style="color:white;"
+                        href="http://0.0.0.0:4000"
+                    >
+                        RMC Home
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
 </nav>
 <!-- End Header -->
+
     <div class="container-fluid" style="margin-top: 100px">
         <h1 id="information-for-contestants">Information for Contestants</h1>
 <p>Getting ready for ICPC? Make sure you go through this checklist:</p>
@@ -232,34 +254,34 @@ Note: Python may not be a good choice for time-critical problems.</li>
 <script src="/js/all.min.js"></script>
 <script src="clock_assets/flipclock.js"></script>
 <script type="text/javascript">
-   var clock;
-		
-		$(document).ready(function() {
-			FlipClock.Lang.Custom = { days:'Days', hours:'Hours', minutes:'Minutes', seconds:'Seconds' };
-	var opts = {
-		clockFace: 'DailyCounter',
-		countdown: true,
-		language: 'Custom'
-	};
-	opts.classes = {
-		active: 'flip-clock-active',
-		before: 'flip-clock-before',
-		divider: 'flip-clock-divider',
-		dot: 'flip-clock-dot',
-		label: 'flip-clock-label',
-		flip: 'flip',
-		play: 'play',
-		wrapper: 'flip-clock-small-wrapper'
-    };  
-    // get date and time of the contest converted into seconds from:
-    // https://www.dwuser.com/education/content/easy-javascript-jquery-countdown-clock-builder/
-    //  // from: 11/02/2020 10:00 am -0700
-    var countdown = 1572714000 - ((new Date().getTime())/1000);
-	countdown = Math.max(1, countdown);
-	$('.clock').FlipClock(countdown, opts);
-		});
-
+      	var clock;
+      	$(document).ready(function() {
+      		FlipClock.Lang.Custom = { days:'Days', hours:'Hours', minutes:'Minutes', seconds:'Seconds' };
+    var opts = {
+    	clockFace: 'DailyCounter',
+    	countdown: true,
+    	language: 'Custom'
+    };
+    opts.classes = {
+    	active: 'flip-clock-active',
+    	before: 'flip-clock-before',
+    	divider: 'flip-clock-divider',
+    	dot: 'flip-clock-dot',
+    	label: 'flip-clock-label',
+    	flip: 'flip',
+    	play: 'play',
+    	wrapper: 'flip-clock-small-wrapper'
+    	};
+         // see countdown demo here:
+         // https://www.dwuser.com/education/content/easy-javascript-jquery-countdown-clock-builder/
+         //  // from: 02/29/2020 02:00 am -0500
+         // convert time to UTC: https://www.onlineconverter.com/time-zone
+         var contestDateTime = new Date("2019-10-26T16:00:00.000Z") // UTC time; convert contest start time to UTC
+         var countdown =
+         	contestDateTime.getTime() / 1000 - new Date().getTime() / 1000
+         countdown = Math.max(1, countdown)
 </script>
+
 
 </body>
 </html>

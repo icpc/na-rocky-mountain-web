@@ -55,18 +55,22 @@ You can push to master to see changes of the web site, but a local tool install 
 ```bash
 # Ubuntu 18.04 desktop
 sudo apt update
-sudo apt upgrade
-sudo apt install emacs git cmake openssh-server
-sudo apt-get install ruby-full build-essential zlib1g-dev
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+sudo apt upgrade -y
+sudo apt install -y emacs git cmake openssh-server
+sudo apt install -y ruby-full build-essential zlib1g-dev
+if ! grep GEM_HOME ~/.bashrc
+then
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+fi
 source ~/.bashrc
 sudo gem update --system
 gem install jekyll bundler
 cd ~/projects # whereever you keep your projects
-git clone git@github.com:icpc/na-rocky-mountain-web.git
-cd na-championship-web/docs
+REPO=na-rocky-mountain-web
+test -d $REPO || git clone git@github.com:icpc/$REPO.git
+cd $REPO/docs
 bundle install
 
 bundle exec jekyll serve --host 0.0.0.0
