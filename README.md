@@ -48,3 +48,29 @@
 - header.html
 - footer.html
 
+## dev env
+
+You can push to master to see changes of the web site, but a local tool install in ubuntu for much faster work (and work off the master branch):
+
+```bash
+# Ubuntu 18.04 desktop
+sudo apt update
+sudo apt upgrade
+sudo apt install emacs git cmake openssh-server
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+sudo gem update --system
+gem install jekyll bundler
+cd ~/projects # whereever you keep your projects
+git clone git@github.com:icpc/na-rocky-mountain-web.git
+cd na-championship-web/docs
+bundle install
+
+bundle exec jekyll serve --host 0.0.0.0
+xdg-open http://localhost:4000
+````
+
+
