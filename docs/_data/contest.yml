@@ -28,11 +28,13 @@ fees:
       regular: 85 CAN per team
       late: 160 CAN per team
       check:
-          payable: University of Saskachewan # payable to
+      
+          payable: University of Alberta # payable to
           address:
-              - address: Shakiba Jalal
-              - address: Dept. of Computer Science
-              - address: University of Saskatchewan
-              - address: 176 Thorvaldson, 110 Science Place
-              - address: Saskatoon, SK S7N3Z9
+              - address: RMRC Regional Contest
+              - address: c/o Stephanie Brown
+              - address: Department of Computing Science
+              - address: 2-21 Athabasca Hall
+              - address: University of Alberta	      
+              - address: Edmonton, AB T6G 2E8
           note: Checks MUST have the school name on the memo line.
