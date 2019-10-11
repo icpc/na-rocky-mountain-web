@@ -1,9 +1,9 @@
-# NA Championship Host info
+# NA Championship info
 nac:
   icon: icon-trophy
   name: Georgia Tech
   country: USA
-  url: https://www.gatech.edu
+  url: http://nac.icpc.global/
   year: 2020
   email: contact@hostsite
 

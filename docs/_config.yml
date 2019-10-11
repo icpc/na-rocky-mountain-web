@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 
-url: https://rm-na.icpc.io # the base hostname & protocol for your site
+url: https://rocky.icpc.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog/
 
 exclude: [

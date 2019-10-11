@@ -18,12 +18,7 @@ layout: default
             </div>
         </div>
         <div class="hero-content">
-            <div class="container-fluid">
-                <div class="hero-content-inner col-sm-6">
-                    <h1>{{ site.data.contest.year }} RMC Countdown</h1>
-                    <div id="clock" class="clock" style="margin:2em;"></div>
-                    <div class="message"></div>
-                </div>
+            <div class="container-fluid center">
                 {% for sponsor in site.data.sponsors.main %}
                 <div class="col-sm-3">
                     <img src="/img/sponsors/{{ sponsor.logo }}" />
@@ -72,7 +67,7 @@ layout: default
         <ul>
             {% if site.data.nac-wf.world_final.name %}<li><h3>{{ site.data.nac-wf.world_final.name }}</h3></li>{% endif %}
             {% if site.data.nac-wf.world_final.country %}<li><h3>{{ site.data.nac-wf.world_final.country }}</h3></li>{% endif %}
-            {% if site.data.nac-wf.world_final.url %}<li><h4><a href="{{ site.data.nac-wf.world_finals.url }}" style="color: white;" target="_blank">Details...</a></h4></li>{% endif %}
+            {% if site.data.nac-wf.world_final.url %}<li><h4><a href="{{ site.data.nac-wf.world_final.url }}" style="color: white;" target="_blank">Details...</a></h4></li>{% endif %}
         </ul>
     </div>
 </div>
