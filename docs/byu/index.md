@@ -8,19 +8,17 @@
 
 ```
 BYU Computer Science Department
-James E. Talmage Building
+James E. Talmage Building (TMCB)
 Provo, UT 84602
 ```
 
 ### Contest Location
 
-The contest will be held in the Talmage Building which is located in the north-west part of BYU campus. You may view the campus interactive map [here](https://map.byu.edu), or you may get a broader perspective using Google or other maps.
+The contest will be held in the Talmage Math and Computing Building (abbreviated TMCB) which is located in the north-west part of BYU campus. You may view the campus interactive map [here](https://map.byu.edu), or you may get a broader perspective using Google or other maps.
 
 ### PARKING
 
-Detailed maps of parking lots are available at [here](http://www.coloradomesa.edu/campus-info/documents/parkingmap.pdf). Parking is free after 5 PM on weekdays and free all-day on weekends on commuter parking (CP) lots. CP1, just north of Pinon Hall, is the closest parking lot from the contest location (Pinon Hall).
-
-Nearest pay-to-park from the contest building is P6, next to CP1. Other options are CP1 and University Center (UC) P1 garage at the corner of 12th Street and Kennedy Avenue. Handicapped, service vehicle spaces, and reserved spaces are restricted and enforced 24 hours a day, 7 days a week. Don't use them unless you’ve a permit.
+Detailed maps of parking lots are available at [here](https://map.byu.edu).  There is also a visitor lot near the Museum of Art (the "MOA" on the interactive campus map) that is free on weekdays.  Parking over much of campus is free after 7 PM on weekdays and free all-day on weekends.  The closest lot to the Talmage Building is Lot 16A (it is just NW of the building itself and accessible from Campus Drive).
 
 ## CHECK-IN TIME AND LOCATION
 
@@ -87,8 +85,8 @@ If you have special dietary needs, please let us know. We will do our best to me
 
 ### Menu
 
-Friday Banquet: Indian Food
-Breakfast: Coffee, Tea, Beverages, Breads and Fruits
+Friday Banquet: TBD
+Breakfast: Beverages, Breads and Fruits
 Lunch: Sandwiches
 Snacks: Pizza
 Dinner: On your own after the contest
