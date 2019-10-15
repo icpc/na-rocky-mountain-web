@@ -86,9 +86,13 @@ If you have special dietary needs, please let us know. We will do our best to me
 ### Menu
 
 Friday Banquet: TBD
-Breakfast: Beverages, Breads and Fruits
+
+Breakfast: Bagels, Fruit, Juice / Chocolate Milk
+
 Lunch: Sandwiches
+
 Snacks: Pizza
+
 Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
