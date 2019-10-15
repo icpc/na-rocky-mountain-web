@@ -94,5 +94,4 @@ Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
 
-- Karl Castleton - [kcastlet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
-- Ram Basnet - [rbasnet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
+- Ryan Farrell - [farrell@cs.byu.edu](mailto:farrell@cs.byu.edu)
