@@ -1,6 +1,6 @@
 # Rocky Mountain Regional ICPC Host Site
 
-## Brigham Young University (BYU)
+# Brigham Young University (BYU)
 
 ## SITE LOCATION
 
@@ -18,12 +18,12 @@ The contest will be held in the Talmage Math and Computing Building (abbreviated
 
 ### PARKING
 
-Detailed maps of parking lots are available at [here](https://map.byu.edu).  There is also a visitor lot near the Museum of Art (the "MOA" on the interactive campus map) that is free on weekdays.  Parking over much of campus is free after 7 PM on weekdays and free all-day on weekends.  The closest lot to the Talmage Building is Lot 16A (it is just NW of the building itself and accessible from Campus Drive).
+Detailed maps of parking lots are available [here](https://map.byu.edu).  There is also a visitor lot near the Museum of Art (the "MOA" on the interactive campus map) that is free on weekdays.  Parking over much of campus is free after 7 PM on weekdays and free all-day on weekends.  The closest lot to the Talmage Building is Lot 16A (it is just NW of the building itself and accessible from Campus Drive).
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, November 2 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
-Saturday, November 3 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
+Friday, October 25 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
+Saturday, October 26 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
@@ -85,11 +85,13 @@ If you have special dietary needs, please let us know. We will do our best to me
 
 ### Menu
 
-Friday Banquet: TBD
-Breakfast: Bagels, Fruit, Juice / Chocolate Milk
-Lunch: TBD
-Snacks: TBD
-Dinner: On your own after the contest
+- Friday:
+    - Banquet: TBD
+- Saturday:
+    -  Breakfast: Bagels, Fruit, Juice / Chocolate Milk
+    -  Lunch: TBD
+    -  Snacks: TBD
+    -  Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
 
