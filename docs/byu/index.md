@@ -13,7 +13,7 @@ Grand Junction, CO 81501
 
 ### Contest Location
 
-The contest will be held in Maverick Innovation Center which is located on the first floor of the Pinon Hall on the south-west corner of Mesa Avenue and N. 12th Street -- north-east part (12th Street is East side and Orchard Ave is North side) of campus. You may view the campus interactive map [here](http://www.coloradomesa.edu/virtual-tour/index.html), or you may get a broader perspective using Google or other maps.
+The contest will be held in the Talmage Building... Center which is located on the first floor of the Pinon Hall on the south-west corner of Mesa Avenue and N. 12th Street -- north-east part (12th Street is East side and Orchard Ave is North side) of campus. You may view the campus interactive map [here](http://www.coloradomesa.edu/virtual-tour/index.html), or you may get a broader perspective using Google or other maps.
 
 ### PARKING
 
