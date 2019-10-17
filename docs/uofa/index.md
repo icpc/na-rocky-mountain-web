@@ -49,6 +49,14 @@ All contest activities will be hosted at contest location. See above for locatio
 |            |     |   and solution discussion at the      |
 |            |     |   Faculty Lounge (address below)      |
 
+## BANQUET
+
+There will be a banquet after the contest starting at 5:15pm at the Faculty Club. Please note, this is a different location than the banquet was held the last two times the contest was hosted at the U of A.
+
+The results of the contest will be announced here and we will also discuss solutions to the problems.
+
+The Faculty Club is located at 11435 Saskatchewan Dr NW. We will be upstairs. Feel free to hang your coat on the rack to the left as soon as you enter and come on up!
+
 ## PRACTICE TIME
 
 The official practice time will be on Friday after dinner. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.
