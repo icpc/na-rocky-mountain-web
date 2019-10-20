@@ -1,30 +1,28 @@
 # Rocky Mountain Regional ICPC Host Site
 
-## University of Arizona
+## University of Alberta
 
 ## SITE LOCATION
 
 ### Main Address
 
 ```
-1100 North Avenue
-Grand Junction, CO 81501
+16 St & 85 Ave
+Edmonton, AB T6G 2R3
 ```
 
 ### Contest Location
 
-The contest will be held in Maverick Innovation Center which is located on the first floor of the Pinon Hall on the south-west corner of Mesa Avenue and N. 12th Street -- north-east part (12th Street is East side and Orchard Ave is North side) of campus. You may view the campus interactive map [here](http://www.coloradomesa.edu/virtual-tour/index.html), or you may get a broader perspective using Google or other maps.
+The contest will be held in the Computing Science Centre (CSC) on the first floor. The location of CSC on the campus map is [here](https://www.ualberta.ca/maps?l=53.526927,-113.52725900000002&z=17&campus=north_campus&b=csc).
 
 ### PARKING
 
-Detailed maps of parking lots are available at [here](http://www.coloradomesa.edu/campus-info/documents/parkingmap.pdf). Parking is free after 5 PM on weekdays and free all-day on weekends on commuter parking (CP) lots. CP1, just north of Pinon Hall, is the closest parking lot from the contest location (Pinon Hall).
+Detailed maps of parking lots are available at [here](https://www.ualberta.ca/parking-services). Parking will cost at most $5.50 per day after 6pm on Friday or all day on the Weekend. The Stadium Parkade is very close to CSC.
 
-Nearest pay-to-park from the contest building is P6, next to CP1. Other options are CP1 and University Center (UC) P1 garage at the corner of 12th Street and Kennedy Avenue. Handicapped, service vehicle spaces, and reserved spaces are restricted and enforced 24 hours a day, 7 days a week. Don't use them unless you’ve a permit.
+## START TIMES
 
-## CHECK-IN TIME AND LOCATION
-
-Friday, November 2 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
-Saturday, November 3 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
+Friday, October 25 from 6:30 - 9:00 PM at the contest location. See above for location and parking. The warmup contest begins at 7:30pm.
+Saturday, October 26 from 8:30 - 9:30 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
@@ -32,21 +30,32 @@ All contest activities will be hosted at contest location. See above for locatio
 
 ## Friday, October 25
 
-| Time         |     | Activity                |
-| ------------ | --- | ----------------------- |
-| 5:30-6:30 PM |     | Check in                |
-| 6:30-7:30 PM |     | Banquet and door prizes |
-| 7:30-9:30 PM |     | Official practice time  |
+| Time         |     | Activity                      |
+| ------------ | --- | ----------------------------- |
+| 6:30-7:15 PM |     | Check in and dinner           |
+| 7:15-7:25 PM |     | Welcome and brief orientation |
+| 7:30-9:00 PM |     | Official practice time        |
 
 ## Saturday, October 26
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:15-9:20  |     | Late check-in, continental breakfast  |
-| 9:30-9:50  |     | Meeting for all contestents           |
-| 10:00-3:00 |     | COMPETITION / Lunch provided at 11:30 |
-| 3:00-3:30  |     | Results calculation                   |
-| 3:30-4:15  |     | Snacks and results announcement       |
+| 8:30-9:30  |     | Continental breakfast                 |
+| 9:30-9:50  |     | Meeting for all contestants           |
+| 10:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
+| 12:30-1:00 |     | Coaches meeting                       |
+| 3:15-3:45  |     | Debriefing (if applicable)            |
+| 5:15-7:00  |     | Banquet, results announcement         |
+|            |     |   and solution discussion at the      |
+|            |     |   Faculty Lounge (address below)      |
+
+## BANQUET
+
+There will be a banquet after the contest starting at 5:15pm at the Faculty Club. Please note, this is a different location than the banquet was held the last two times the contest was hosted at the U of A.
+
+The results of the contest will be announced here and we will also discuss solutions to the problems.
+
+The Faculty Club is located at 11435 Saskatchewan Dr NW. We will be upstairs. Feel free to hang your coat on the rack to the left as soon as you enter and come on up!
 
 ## PRACTICE TIME
 
@@ -55,24 +64,17 @@ The official practice time will be on Friday after dinner. Practice will be held
 There will be NO official practice time on Saturday before the contest.
 The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended for fairness purposes. Teams are recommended to wear contest shirts during the competition if they get one.
 
-## COMPUTING ENVIRONMENT
+## LOCAL RESOURCES
 
-Each team will get one Linux virtual machine with the following configuration.
+See [here](https://webdocs.cs.ualberta.ca/~contest/RMRC2019/regional.pdf) for a pamphlet that includes the machines available on site, a summary of the editors and compilers/interpreters that will be available.
 
-```
-Ubuntu 16.04 running on an i7-4790@3.6GHz with 4GB ram
-Atom, CLion, Emacs, Geany, IDEA, Netbeans, PyCharm, VIM, Visual Studio Code
-Java 1.8
-gcc/g++ 7.3
-Python 2.7 and 3.6
-Kotlin 1.2
-```
 
 ## KATTIS ACCOUNT
 
 Create an account (at least for one member per team) on open.kattis.com and remember your password.
 Only printed references will be allowed during the contest
-NO digital devices will be allowed to use during the contest
+NO digital devices will be allowed to use during the contest.
+You will be able to print code during the contest, details on how to do so will be shared at the contest site.
 
 ## HOTEL
 
@@ -80,19 +82,10 @@ Guests staying Friday night can book at one of the many hotels in town. There is
 
 ## FOOD
 
-You may bring your own food/beverages/snacks if you wish. Please note there is no food allowed in the computer labs/working area.
+You may bring your own food/beverages/snacks if you wish, but we will be providing dinner on Friday as well as breakfast/lunch/dinner on Saturday. Please note there is no food allowed in the computer labs/working area.
 
-If you have special dietary needs, please let us know. We will do our best to meet these requests and will let you know what to expect. We already have vegetarian options planned.
-
-### Menu
-
-Friday Banquet: Indian Food
-Breakfast: Coffee, Tea, Beverages, Breads and Fruits
-Lunch: Sandwiches
-Snacks: Pizza
-Dinner: On your own after the contest
+If you have special dietary needs, please let us know as soon as possible by emailing Zachary Friggstad directly. We will do our best to meet these requests and will let you know what to expect. We already have vegetarian options planned.
 
 ## CONTACT INFORMATION
 
--   Karl Castleton - [kcastlet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
--   Ram Basnet - [rbasnet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
+-   Zachary Friggstad - [zacharyf@ualberta.ca](mailto:zacharyf@ualberta.ca)
