@@ -41,7 +41,7 @@ All contest activities will be hosted at contest location. See above for locatio
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:15-9:20  |     | Late check-in, continental breakfast  |
+| 8:30-9:20  |     | Late check-in, continental breakfast  |
 | 9:30-9:50  |     | Meeting for all contestants           |
 | 10:00-3:00 |     | COMPETITION / Lunch provided at 11:30 |
 | 3:00-3:30  |     | Results calculation                   |
@@ -59,12 +59,25 @@ The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended fo
 Each team will get one Linux virtual machine with a configuration like the [world-finals environment](https://icpc.baylor.edu/worldfinals/programming-environment).
 
 ```
-Ubuntu 16.04 running on an i7-4790@3.6GHz with 4GB ram
-Atom, CLion, Emacs, Geany, IDEA, Netbeans, PyCharm, VIM, Visual Studio Code
-Java 1.8
-gcc/g++ 7.3
-Python 3.6.8
-Kotlin 1.2
+Ubuntu 18.04.3 LTS Linux (64-bit), running on an i5-6500@3.2GHz [4 cores] with 8GB RAM allocated to the VM
+
+Editors:
+   vi/vim/gvim (8.0.1453)
+   emacs (25.2.2)
+   gedit (3.28.1)
+   geany (1.32)
+   kate (17.12.3)
+IDEs:
+   Eclipse with JDT, CDT, PyDev (2019-03, 4.11.0)
+   IntelliJ IDEA CE (2019.2.3)
+   CLion (2019.2.4)
+   Pycharm CE (2019.2.3)
+   Code::Blocks (17.12-1)
+Languages
+   Java (OpenJDK 11.0.4)
+   gcc/g++ 7.4.0 (gdb available)
+   Python 3.6.8 (NOT Python 2)
+   Kotlin 1.3.50-release-112
 ```
 
 ## KATTIS ACCOUNT
@@ -86,7 +99,7 @@ If you have special dietary needs, please let us know. We will do our best to me
 ### Menu
 
 - Friday:
-    - Banquet: TBD
+    - Banquet: Taco Bar 
 - Saturday:
     -  Breakfast: Bagels, Fruit, Juice / Chocolate Milk
     -  Lunch: TBD
