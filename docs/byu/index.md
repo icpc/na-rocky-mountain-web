@@ -42,7 +42,7 @@ All contest activities will be hosted at contest location. See above for locatio
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
 | 8:15-9:20  |     | Late check-in, continental breakfast  |
-| 9:30-9:50  |     | Meeting for all contestents           |
+| 9:30-9:50  |     | Meeting for all contestants           |
 | 10:00-3:00 |     | COMPETITION / Lunch provided at 11:30 |
 | 3:00-3:30  |     | Results calculation                   |
 | 3:30-4:15  |     | Snacks and results announcement       |
@@ -56,14 +56,14 @@ The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended fo
 
 ## COMPUTING ENVIRONMENT
 
-Each team will get one Linux virtual machine with the following configuration.
+Each team will get one Linux virtual machine with a configuration like the [world-finals environment](https://icpc.baylor.edu/worldfinals/programming-environment).
 
 ```
 Ubuntu 16.04 running on an i7-4790@3.6GHz with 4GB ram
 Atom, CLion, Emacs, Geany, IDEA, Netbeans, PyCharm, VIM, Visual Studio Code
 Java 1.8
 gcc/g++ 7.3
-Python 2.7 and 3.6
+Python 3.6.8
 Kotlin 1.2
 ```
 
