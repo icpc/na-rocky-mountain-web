@@ -99,11 +99,10 @@ If you have special dietary needs, please let us know. We will do our best to me
 ### Menu
 
 - Friday:
-    - Banquet: Taco Bar 
+    - Banquet: Taco Bar, Sodas
 - Saturday:
     -  Breakfast: Bagels, Fruit, Juice / Chocolate Milk
-    -  Lunch: TBD
-    -  Snacks: TBD
+    -  Lunch: Pizza, Sodas
     -  Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
