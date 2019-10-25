@@ -1,7 +1,7 @@
 # sites that hosts regional contests
 - name: University of Alberta
   location: Alberta, Canada
-  url: https://rocky.icpc.io/uofa/
+  url: https://rocky.icpc.io/ualberta/
 
 - name: Montana Tech
   location: Butte, Montana
@@ -17,6 +17,6 @@
 
 - name: University of Arizona
   location: Tucson, Arizona
-  url: https://rocky.icpc.io/uofa/
+  url: https://rocky.icpc.io/uarizona/
 
 
