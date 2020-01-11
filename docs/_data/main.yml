@@ -24,12 +24,12 @@ sponsorship_contact:
   email: rbasnet@coloradomesa.edu
 
 # Social settings
-facebook: https://facebook.com/icpcnac
-twitter: https://twitter.com/icpcnac
-instagram: https://instagram.com/icpcnac
+facebook:
+twitter: 
+instagram: 
 
 # Footer
-copyright: © Rocky Mountain Regional ICPC
+copyright: Rocky Mountain Regional ICPC
 
 # Theme Settings
 analytics: 
