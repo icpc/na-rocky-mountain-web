@@ -3,7 +3,7 @@ layout: page
 title: NAC Live Resources and Newsletters
 ---
 
-## NAC Live Broadcast Link and Other Resources
+## NAC Live Broadcast Links and Other Resources
 ### Live Broadcast
 - YouTube: [http://cutt.ly/icpcnac](http://cutt.ly/icpcnac)
 - Facebook: [https://www.facebook.com/na.icpc.io](https://www.facebook.com/na.icpc.io)
