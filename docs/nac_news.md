@@ -16,7 +16,7 @@ title: NAC Live Resources and Newsletters
 - Facebook: [https://www.facebook.com/na.icpc.io](https://www.facebook.com/na.icpc.io)
 
 ### Other Resources
-- Mirror contest: [https://open.kattis.com/contests/nac20open](https://open.kattis.com/contests/nac20open)
+- Mirror public contest and problems: [https://open.kattis.com/contests/nac20open](https://open.kattis.com/contests/nac20open)
 - Scoreboard: [http://nac.icpc.global/scoreboard/](http://nac.icpc.global/scoreboard/)
 
 
