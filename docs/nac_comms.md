@@ -4,6 +4,7 @@ title: NAC Communications
 ---
 
 ## 2020 NAC Communications
+#### NAC Official Site [http://nac.icpc.global](http://nac.icpc.global)
 
 ### Contest and Closing Ceremony Videos
 - YouTube: [https://www.youtube.com/watch?v=Ocwhap9nIx4](https://www.youtube.com/watch?v=Ocwhap9nIx4)
@@ -28,8 +29,6 @@ title: NAC Communications
 - Scoreboard: [http://nac.icpc.global/scoreboard/](http://nac.icpc.global/scoreboard/)
 
 ### Newsletters
-
-#### [NAC Official Site](http://nac.icpc.global)
 
 ### [Jan.10, Newsletter #1](/nac/Jan10-Letter1.pdf)
 
