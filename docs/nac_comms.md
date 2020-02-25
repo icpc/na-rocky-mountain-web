@@ -20,7 +20,7 @@ title: NAC Communications
 - Flickr [https://www.flickr.com/photos/187051365@N06/](https://www.flickr.com/photos/187051365@N06/)
 
 ### Team GIFs
-- https://giphy.com/icpc
+- [https://giphy.com/icpc](https://giphy.com/icpc)
 
 
 ### Other Resources
