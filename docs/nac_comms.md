@@ -1,30 +1,33 @@
 ---
 layout: page
-title: NAC Live Resources and Newsletters
+title: NAC Communications
 ---
 
-## NAC Live Broadcast Links and Other Resources
-### Live Broadcast
-- YouTube: [http://cutt.ly/icpcnac](http://cutt.ly/icpcnac)
+## 2020 NAC Communications
+
+### Contest and Closing Ceremony Videos
+- YouTube: [https://www.youtube.com/watch?v=Ocwhap9nIx4](https://www.youtube.com/watch?v=Ocwhap9nIx4)
 - Facebook: [https://www.facebook.com/na.icpc.io](https://www.facebook.com/na.icpc.io)
 - Twitch: [https://www.twitch.tv/icpclive/](https://www.twitch.tv/icpclive/)
 
-### Stay Connected via Social Media
+### Stay Connected
 - Twitter: [https://twitter.com/IcpcNac](https://twitter.com/IcpcNac)
 - Hashtag #icpcnac2020
 - Discord [https://discord.gg/FpJfBHS](https://discord.gg/FpJfBHS)
 - Facebook: [https://www.facebook.com/na.icpc.io](https://www.facebook.com/na.icpc.io)
 
+### Pictures
+- Flickr [https://www.flickr.com/photos/187051365@N06/](https://www.flickr.com/photos/187051365@N06/)
+
+### Team GIFs
+- https://giphy.com/icpc
+
+
 ### Other Resources
 - Mirror public contest and problems: [https://open.kattis.com/contests/nac20open](https://open.kattis.com/contests/nac20open)
 - Scoreboard: [http://nac.icpc.global/scoreboard/](http://nac.icpc.global/scoreboard/)
 
-
-### Pictures
-- Flickr [https://www.flickr.com/photos/187051365@N06/](https://www.flickr.com/photos/187051365@N06/)
-
-
-## North America Championship (NAC) Newsletters
+### Newsletters
 
 #### [NAC Official Site](http://nac.icpc.global)
 
