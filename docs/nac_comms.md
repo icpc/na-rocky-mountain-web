@@ -27,8 +27,8 @@ title: NAC Communications
 
 
 ### Other Resources
+- Final Scoreboard: [http://nac.icpc.global/scoreboard/](http://nac.icpc.global/scoreboard/)
 - Mirror public contest and problems: [https://open.kattis.com/contests/nac20open](https://open.kattis.com/contests/nac20open)
-- Scoreboard: [http://nac.icpc.global/scoreboard/](http://nac.icpc.global/scoreboard/)
 
 ### Newsletters
 
