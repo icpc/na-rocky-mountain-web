@@ -12,8 +12,9 @@ layout: default
             {% endif %}
         </div>
         <div class="container-fluid">
-            <div id="bannerText" class="col-sm-8">
-                <h2>Contest: {{ site.data.main.banner.contest_date }}</h2>
+            <div id="bannerText">
+                <br />
+                <h2 style="text-align: center;">Contest: {{ site.data.main.banner.contest_date }}</h2>
             </div>
         </div>
         <div class="hero-content">
@@ -126,18 +127,22 @@ layout: default
     <div class="container-fluid">
     <h2 class="section-title">{{ site.data.contest.year }} Contest Information</h2>
         <div class="row">
-            This year is going to be unusual; our contest will be fully online on March 6 at 12 NOON.  Each team member will use their own pc although the details are to be determined.
-
-            Coaches: Please participate in the pre-qualifier at : <a href="https://icpc.global/regionals/finder/North-America-Qualifier-2020" target="_blank">https://icpc.global/regionals/finder/North-America-Qualifier-2020</a> participation in this event will increase the number of teams we get to promote to the online north-america championship.
-            
-            There are NO FEES.   You must register early so you can get a t-shirt in time for the contest.
-            
-            Rules for eligibility will be as if the student were applying in November 2020.
-            
+            <p>This year is going to be unusual; our contest will be fully online on March 6, 2021 at 12 NOON MST.  Each team member will use their own pc although the details are to be determined.
+            </p>
+            <p>Coaches: Please participate in the pre-qualifier at: <a href="https://icpc.global/regionals/finder/North-America-Qualifier-2020" target="_blank">https://icpc.global/regionals/finder/North-America-Qualifier-2020</a> participation in this event will increase the number of teams we get to promote to the online north-america championship.
+            </p>
+            <p>
+            There are NO FEES this year. You must register early so you can get a t-shirt in time for the contest.
+        </p>
+            Rules for eligibility will be as if the student were applying in November 2020. See <a href="https://icpc.global/regionals/rules">here</a>.
+            </p>
+            <p>
             Dates for the North America Championship and the World Finals will be later in 2021 than usual. Note that the 2020 World Finals is planned for June 2021 in Moscow, one year later than originally scheduled. So, the 2021 World Finals will be late in the year, likely October or November.
-            
+        </p>
+            <br />
         </div>
         <div class="row">
+            <br />
             <h3 class="blackText">Dates & Deadlines</h3>
             <table class="table">
                 <thead>
@@ -163,8 +168,9 @@ layout: default
             <p>Coaches from each university must register their teams following the instruction on <a href="https://icpc.baylor.edu/regionals/coach-instructions" target="_blank">ICPC Headquarter Site</a>.</p>
         </div>
         <div class="row">
+            <br />
             <h3 class="blackText">Fees</h3>
-            <p>Fees cover registration, food for Friday (dinner) and Saturday (breakfast & lunch), and a t-shirt if registered before regular registration deadline.</a>.</p>
+            <p>NO FEES</p>
             {% for fee in site.data.contest.fees %}
                 <div class="col-sm-6">
                     <h3>{{ fee.country }}</h3>
@@ -226,13 +232,14 @@ layout: default
 <!-- Start Resources -->
 <div id="resources" class="resources">
     <div class="container-fluid">
-        <h2 class="section-title">Resources</h2>
-        {% for resource in site.data.resources %}
-        <div class="row">
-            <h2><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></h2>
-        </div>
-        {% endfor %}
-        
+        {% if site.data.resources %}
+            <h2 class="section-title">Resources</h2>
+            {% for resource in site.data.resources %}
+            <div class="row">
+                <h2><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></h2>
+            </div>
+            {% endfor %}
+        {% endif %}
     </div>
 </div>
 <!-- End Resources -->
