@@ -1,8 +1,5 @@
 # banner - top - sponsors
 main:
-  - name: Two Sigma
-    logo: TwoSigma.png
-
   - name: Jet Brains
     logo: JetBrains.png
 

@@ -7,11 +7,11 @@ logotext: " | rocky.icpc.io"
 # Banner
 banner: 
   bg-img: /img/NorthAmerica.png
-  image: /img/mountains.png #banner image on left side
+  image: /img/icpc-regional-header-rocky.png #/img/mountains.png #banner image on left side
   title: Rocky Mountain Regional Contest (RMC)
   title2: A North American Regional
   description: International Collegiate Programming Contest (ICPC)
-  contest_date: October 26, 2019
+  contest_date: March 6, 2021
 
 
 # Contact form

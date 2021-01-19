@@ -2,10 +2,10 @@
 year: 2019 # contest year
 
 date:
-    regular: October 15 # regular registration deadline
-    late: October 22 # late registration deadline
-    practice: October 25
-    contest: October 26
+    regular: February 6 # regular registration deadline
+    late: February 6 # late registration deadline
+    practice: March 6
+    contest: March 6
 
 # registration fees for different countries participating in the region
 fees:

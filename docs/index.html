@@ -4,17 +4,15 @@ layout: default
 
 <!-- Start Banner -->
 <div id="banner" class="hero" style="background: url('{{ site.url }}{{ site.data.main.banner.bg-img }}') no-repeat center center; background-size: cover;">
+
     <div id="bannerContent" class="row">
+        <div class="container-fluid" style="background-color:white">
+            {% if site.data.main.banner.image %}
+            <img src="{{ site.data.main.banner.image }}" width="100%" alt="Rocky Mountain Regional International Collegiate Programming Contest">
+            {% endif %}
+        </div>
         <div class="container-fluid">
-            <div class="col-sm-4">
-                {% if site.data.main.banner.image %}
-                <img src="{{ site.data.main.banner.image }}" width="100%">
-                {% endif %}
-            </div>
             <div id="bannerText" class="col-sm-8">
-                <h1>{{ site.data.main.banner.title }}</h1>
-                <h2>{{ site.data.main.banner.title2 }}</h2>
-                <h3>{{ site.data.main.banner.description }}</h3>
                 <h2>Contest: {{ site.data.main.banner.contest_date }}</h2>
             </div>
         </div>
