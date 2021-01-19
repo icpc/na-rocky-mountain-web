@@ -126,16 +126,21 @@ layout: default
     <div class="container-fluid">
     <h2 class="section-title">{{ site.data.contest.year }} Contest Information</h2>
         <div class="row">
-            This year is going to be unusual; our contest will be fully online on March 6 at 12 NOON.  Each team member will use their own pc although the details are to be determined.
-
-            Coaches: Please participate in the pre-qualifier at : <a href="https://icpc.global/regionals/finder/North-America-Qualifier-2020" target="_blank">https://icpc.global/regionals/finder/North-America-Qualifier-2020</a> participation in this event will increase the number of teams we get to promote to the online north-america championship.
-            
-            There are NO FEES.   You must register early so you can get a t-shirt in time for the contest.
-            
-            Rules for eligibility will be as if the student were applying in November 2020.
-            
-            Dates for the North America Championship and the World Finals will be later in 2021 than usual. Note that the 2020 World Finals is planned for June 2021 in Moscow, one year later than originally scheduled. So, the 2021 World Finals will be late in the year, likely October or November.
-            
+            <h3 class="blackText">{{ site.data.contest.year }} Host Sites</h3>
+            {% for site in site.data.sites %}
+            <div class="col-sm-6 col-md-4">
+                <div class="media-left">
+                    <div class="box-icon">
+                        <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
+                    </div>
+                </div>
+                <div class="media-body">
+                    <h4><a href="{{ site.url }}">{{ site.name }}</a></h4>
+                    <p>{{ site.location }}</p>
+                    &nbsp;<br>
+                </div>
+            </div>
+            {% endfor %}
         </div>
         <div class="row">
             <h3 class="blackText">Dates & Deadlines</h3>

@@ -1,40 +1,11 @@
 # data for contest information
-year: 2019 # contest year
+year: 2020 # contest year
 
 date:
-    regular: February 6 # regular registration deadline
-    late: February 6 # late registration deadline
-    practice: March 6
-    contest: March 6
+    regular: February 6, 2021 # regular registration deadline
+    late: February 20, 2021 # late registration deadline
+    practice: March 6, 2021
+    contest: March 6, 2021
 
 # registration fees for different countries participating in the region
 fees:
-    - country: US Universities
-      regular: 85 USD per team
-      late: 160 USD per team
-      check:
-          payable: Denver ACM # payable to
-          address:
-              - address: Denver ACM
-              - address: P.O. Box 440785
-              - address: Aurora, CO 80044
-          note: No purchase orders. Checks MUST have the school name on the memo line.
-      credit:
-          note:
-              Credit cards accepted through PayPal! Go to <a href="https://www.paypal.com" target="_blank">Paypal</a>
-              and select the Send Money tab. The email address to send money to blanche@acm.org, who is our accountant.
-              Be sure the school name is documented.
-    - country: Canadian Universities
-      regular: 85 CAN per team
-      late: 160 CAN per team
-      check:
-      
-          payable: University of Alberta # payable to
-          address:
-              - address: RMRC Regional Contest
-              - address: c/o Stephanie Brown
-              - address: Department of Computing Science
-              - address: 2-21 Athabasca Hall
-              - address: University of Alberta	      
-              - address: Edmonton, AB T6G 2E8
-          note: Checks MUST have the school name on the memo line.
