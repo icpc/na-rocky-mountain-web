@@ -1,4 +1,7 @@
 # banner - top - sponsors
+main:
+  - name: Jet Brains
+    logo: JetBrains.png
 
 # all sponsors
 sponsors:
