@@ -1,0 +1,17 @@
+- text: Home
+  url: /index.html#top
+
+- text: About
+  url: /index.html#about
+
+- text: Sponsors
+  url: /index.html#sponsors
+
+- text: Contest
+  url: /index.html#contest
+
+- text: Contact
+  url: /index.html#people
+
+- text: NAC Comms
+  url: /nac_comms.html

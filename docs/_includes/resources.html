@@ -1,0 +1,12 @@
+{% if site.data.resources %}
+<div id="resources" class="resources">
+    <div class="container-fluid">
+            <h2 class="section-title">Resources</h2>
+            {% for resource in site.data.resources %}
+            <div class="row">
+                <h2><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></h2>
+            </div>
+            {% endfor %}
+    </div>
+</div>
+{% endif %}

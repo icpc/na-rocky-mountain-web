@@ -1,0 +1,16 @@
+<div id="sponsors" class="sponsors">
+    <div class="container-fluid">
+        <h2 class="section-title">RMC Regional Sponsors</h2>
+        <div class="row" style="float:none">
+            {% for sponsor in site.data.reg_sponsors.sponsors %}
+            <div class="col-sm-6 col-md-4 center-block">
+                <div class="sponsor" align="center">
+                    <img src="/img/sponsors/{{ sponsor.logo }}" style="height:50px" />
+                    <h3><a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a></h3>
+                    <h4>{{ sponsor.description }}</h4>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+<div id="people" class="team"> 
+    <h2 class="section-title">Contact Us</h2> 
+    <!-- add id="team-carousel" if there are more members-->
+    <div style="display: flex; justify-content: center;">
+    {% for member in site.data.people %}
+        <div class="expandable-box">
+            <div class="expandable-box-top">
+                <img width="200px" src="/img/people/{{ member.image }}" alt="{{ member.name }}">
+                <h3>{{ member.name }}</h3>
+                <h4>{{ member.position }}</h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
+                </a>
+                <a href="{{ member.url }}" data-toggle="tooltip" data-placement="bottom" title="Detail..."><svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg></a>
+                </a>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>

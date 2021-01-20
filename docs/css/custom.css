@@ -6,11 +6,10 @@
     color: white;
 }
 
-
 #bannerContent {
     padding-top: 40px;
-    min-height: 500px;
-    background: rgba(255, 255, 255, 0.6);
+    min-height: 400px;
+    background: rgba(255, 255, 255, 1);
 }
 
 #bannerText h1 {
@@ -67,7 +66,9 @@
     height: 140px;
 }
 
-
+#people {
+    margin-top: 50px;
+}
 
 #resources {
     margin-top: 50px;
@@ -80,6 +81,5 @@
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 0px;
 }
-

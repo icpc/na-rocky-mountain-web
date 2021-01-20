@@ -1,0 +1,29 @@
+<!-- Start Banner -->
+<div id="banner" class="hero" style="background: url('{{ site.url }}{{ site.data.main.banner.bg-img }}') no-repeat center center; background-size: cover;">
+    <div id="bannerContent" class="row">
+        <div class="container-fluid" style="background-color:white">
+            {% if site.data.main.banner.image %}
+            <img src="{{ site.data.main.banner.image }}" width="100%" alt="Rocky Mountain Regional International Collegiate Programming Contest">
+            {% endif %}
+        </div>
+        <div class="container-fluid">
+            <div id="bannerText">
+                <br />
+                <h2 style="text-align: center;">Contest: {{ site.data.main.banner.contest_date }}</h2>
+            </div>
+        </div>
+        <div class="hero-content">
+            <div class="container-fluid center">
+                {% for sponsor in site.data.sponsors.main %}
+                <div class="col-sm-3">
+                    <img src="/img/sponsors/{{ sponsor.logo }}" />
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="container-fluid">
+
+        </div>
+    </div>
+</div>
+<!-- End Banner -->

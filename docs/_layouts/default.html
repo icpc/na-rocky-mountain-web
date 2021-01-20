@@ -4,10 +4,15 @@
     <!--[if lt IE 10]>
         <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to better experience this site.</p>
     <![endif]-->
-
-    {% include header.html %}
+    
+    <!-- Start Navigation -->
+    {% include navigation.html %}
+    <!-- End Navigation -->
         {{ content }}
+    
+    <!-- Start Footer -->
     {% include footer.html %}
+    <!-- End Footer -->
     
     {% if site.analytics %}
         {% include analytics.html %}

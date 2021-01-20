@@ -2,244 +2,27 @@
 layout: default
 ---
 
-<!-- Start Banner -->
-<div id="banner" class="hero" style="background: url('{{ site.url }}{{ site.data.main.banner.bg-img }}') no-repeat center center; background-size: cover;">
+<!-- banner and carousel -->
+{% include banner.html %}
 
-    <div id="bannerContent" class="row">
-        <div class="container-fluid" style="background-color:white">
-            {% if site.data.main.banner.image %}
-            <img src="{{ site.data.main.banner.image }}" width="100%" alt="Rocky Mountain Regional International Collegiate Programming Contest">
-            {% endif %}
-        </div>
-        <div class="container-fluid">
-            <div id="bannerText">
-                <br />
-                <h2 style="text-align: center;">Contest: {{ site.data.main.banner.contest_date }}</h2>
-            </div>
-        </div>
-        <div class="hero-content">
-            <div class="container-fluid center">
-                {% for sponsor in site.data.sponsors.main %}
-                <div class="col-sm-3">
-                    <img src="/img/sponsors/{{ sponsor.logo }}" />
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="container-fluid">
+<!-- North America and World Championship Info -->
+{% include three-cols-info.html %}
 
-        </div>
-    </div>
-</div>
-<!-- End Banner -->
+<!-- About ICPC and Regional -->
+{% include about.html %}
 
-<!-- Start 3 columns Quick Info after Banner -->
-<div class="three-shade-col">
-    <!-- Sponsorship Contact Info -->
-    <div class="col-sm-4">
-        <svg class="icon icon-heart"><use xlink:href="#icon-heart"></use></svg>
-        <h3>RMC Regional Sponsorship</h3>
-        <ul>
-            {% if site.data.main.sponsorship_contact.name %}
-                <li><h3>{{ site.data.main.sponsorship_contact.name }}</h3></li>
-            {% endif %}
-            {% if site.data.main.sponsorship_contact.email %}
-                <li><a href="mailto:{{ site.data.main.sponsorship_contact.email }}">
-                <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg></a>
-                </li>
-            {% endif %}
-        </ul>
-    </div>
-    <!-- NA Championship Host -->
-    <div class="col-sm-4">
-        <svg class="icon {{ site.data.host.nac.icon }}"><use xlink:href="#{{ site.data.nac-wf.nac.icon }}"></use></svg>
-        <h3>{{ site.data.nac-wf.nac.year }} North America Championship</h3>
-        <ul>
-            {% if site.data.nac-wf.nac.name %}<li><h3>{{ site.data.nac-wf.nac.name }}</li></h3>{% endif %}
-            {% if site.data.nac-wf.nac.country %}<li><h3>{{ site.data.nac-wf.nac.country }}</h3></li>{% endif %}
-            {% if site.data.nac-wf.nac.url %}<li><h4><a href="{{ site.data.nac-wf.nac.url }}" style="color:white;" target="_blank">Details...</a></h4></li>{% endif %}
-        </ul>
-    </div>
-    <!-- World Final Host -->
-    <div class="col-sm-4">
-        <svg class="icon {{ site.data.nac-wf.world_final.icon }}"><use xlink:href="#{{ site.data.nac-wf.world_final.icon }}"></use></svg>
-        <h3>{{ site.data.nac-wf.world_final.year }} World Finals</h3>
-        <ul>
-            {% if site.data.nac-wf.world_final.name %}<li><h3>{{ site.data.nac-wf.world_final.name }}</h3></li>{% endif %}
-            {% if site.data.nac-wf.world_final.country %}<li><h3>{{ site.data.nac-wf.world_final.country }}</h3></li>{% endif %}
-            {% if site.data.nac-wf.world_final.url %}<li><h4><a href="{{ site.data.nac-wf.world_final.url }}" style="color: white;" target="_blank">Details...</a></h4></li>{% endif %}
-        </ul>
-    </div>
-</div>
-<!-- End 3 columns -->
-
-<!-- Start About -->
-<div id="about" class="about">
-    <div class="container-fluid">
-        <h2 class="section-title">About</h2>
-
-        <div class="row">
-            <div class="col-sm-6">
-                <h3 class="blackText">About ICPC</h3>
-                <p>{{ site.data.about.icpc }}</p>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <h3 class="blackText">About RMC</h3>
-                        <p>{{ site.data.about.rmc }}</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6">
-                <img src="img/code.png" alt="Solving problems writing codes...">
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End About -->
-
-<!-- Start Sponsors -->
-<div id="sponsors" class="sponsors">
-    <div class="container-fluid">
-        <h2 class="section-title">RMC Regional Sponsors</h2>
-        <div class="row" style="float:none">
-            {% for sponsor in site.data.sponsors.sponsors %}
-            <div class="col-sm-6 col-md-4 center-block">
-                <div class="sponsor" align="center">
-                    <img src="/img/sponsors/{{ sponsor.logo }}" style="height:50px" />
-                    <h3><a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a></h3>
-                    <h4>{{ sponsor.description }}</h4>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-<!-- End Sponsors -->
+<!-- Start Regional Sponsors -->
+{% include reg_sponsors.html %}
+<!-- End Regional Sponsors -->
 
 <!-- Start Contest Information  -->
-<div id="regions" class="regions parallax">
-    <div class="container-fluid">
-    <h2 class="section-title">{{ site.data.contest.year }} Contest Information</h2>
-        <div class="row">
-            <p>This year is going to be unusual; our contest will be fully online on March 6, 2021 at 12 NOON MST.  Each team member will use their own pc although the details are to be determined.
-            </p>
-            <p>Coaches: Please participate in the pre-qualifier at: <a href="https://icpc.global/regionals/finder/North-America-Qualifier-2020" target="_blank">https://icpc.global/regionals/finder/North-America-Qualifier-2020</a> participation in this event will increase the number of teams we get to promote to the online north-america championship.
-            </p>
-            <p>
-            There are NO FEES this year. You must register early so you can get a t-shirt in time for the contest.
-        </p>
-            Rules for eligibility will be as if the student were applying in November 2020. See <a href="https://icpc.global/regionals/rules">here</a>.
-            </p>
-            <p>
-            Dates for the North America Championship and the World Finals will be later in 2021 than usual. Note that the 2020 World Finals is planned for June 2021 in Moscow, one year later than originally scheduled. So, the 2021 World Finals will be late in the year, likely October or November.
-        </p>
-            <br />
-        </div>
-        <div class="row">
-            <br />
-            <h3 class="blackText">Dates & Deadlines</h3>
-            <table class="table">
-                <thead>
-                    <tr>
-                      <th scope="col">Regular Registration Deadline</th>
-                      <th scope="col">Late Registration Deadline</th>
-                      <th scope="col">Practice Date</th>
-                      <th scope="col">Contest Date</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td scope="row">{{ site.data.contest.date.regular }}</th>
-                      <td>{{ site.data.contest.date.late }}</td>
-                      <td>{{ site.data.contest.date.practice }}</td>
-                      <td>{{ site.data.contest.date.contest }}</td>
-                    </tr>
-                  </tbody>
-            </table>
-        </div>
-        <div class="row">
-            <h3 class="blackText">Registration</h3>
-            <p>Coaches from each university must register their teams following the instruction on <a href="https://icpc.baylor.edu/regionals/coach-instructions" target="_blank">ICPC Headquarter Site</a>.</p>
-        </div>
-        <div class="row">
-            <br />
-            <h3 class="blackText">Fees</h3>
-            <p>NO FEES</p>
-            {% for fee in site.data.contest.fees %}
-                <div class="col-sm-6">
-                    <h3>{{ fee.country }}</h3>
-                    <h4>Regular Fee: {{ fee.regular }} </h3>
-                    <h4>Late Fee: {{ fee.late }} </h4>
-                    {% if fee.check %}
-                    <div class="card">
-                        <div class="card-body">
-                        <h4 class="card-title">Check</h4>
-                        <p class="card-text">
-                            Payable to: <strong>{{ fee.check.payable }}</strong><br>
-                            Mail to: <br>
-                            {% for add in fee.check.address %}
-                                <strong>{{ add.address }}</strong><br>
-                            {% endfor %}
-                        </p>
-                        <p class="card-text"><strong>Note: </strong>{{ fee.check.note }}</p>
-                        </div>
-                    </div>
-                    {% endif %}
-                    {% if fee.credit %}
-                        <div class="card">
-                            <div class="card-body">
-                            <h4 class="card-title">Credit</h4>
-                            <p class="card-text"><strong>Note: </strong>{{ fee.credit.note }}</p>
-                            </div>
-                        </div>
-                    {% endif %}
-                </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
+{% include contest_info.html %}
 <!-- End Contest -->
 
-<!-- Start People -->
-<div id="people" class="team"> 
-    <h2 class="section-title">Contact Us</h2> 
-    <div id="team-carousel">
-    {% for member in site.data.people %}
-        <div class="expandable-box">
-            <div class="expandable-box-top">
-                <img width="200px" src="/img/people/{{ member.image }}" alt="{{ member.name }}">
-                <h3>{{ member.name }}</h3>
-                <h4>{{ member.position }}</h4>
-            </div>
-            <div class="expandable-box-bottom">
-                <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
-                </a>
-                <a href="{{ member.url }}" data-toggle="tooltip" data-placement="bottom" title="Detail..."><svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg></a>
-                </a>
-            </div>
-        </div>
-    {% endfor %}
-    </div>
-</div>
-<!-- End People -->
+<!-- Start Contact -->
+{% include contact.html %}
+<!-- End Contact -->
 
 <!-- Start Resources -->
-<div id="resources" class="resources">
-    <div class="container-fluid">
-        {% if site.data.resources %}
-            <h2 class="section-title">Resources</h2>
-            {% for resource in site.data.resources %}
-            <div class="row">
-                <h2><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></h2>
-            </div>
-            {% endfor %}
-        {% endif %}
-    </div>
-</div>
+{% include resources.html %}
 <!-- End Resources -->

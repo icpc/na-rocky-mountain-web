@@ -2,10 +2,10 @@
 title: RMC-NA ICPC | Rocky Mountain Regional Programming Contest
 description: Rocky Mountain Regional Collegiate Programming Contest
 logo: "/img/think-create-solve-white.svg"
-logotext: " | rocky.icpc.io"
+logotext: "Rocky Mountain ICPC"
 logourl: "https://icpc.global"
 
-# Banner
+# Banner | rocky.icpc.io
 banner: 
   bg-img: /img/NorthAmerica.png
   image: /img/icpc-regional-header-rocky.png #/img/mountains.png #banner image on left side
