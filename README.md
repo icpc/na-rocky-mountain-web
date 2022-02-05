@@ -50,7 +50,18 @@
 
 ## dev env
 
-You can push to master to see changes of the web site, but a local tool install in ubuntu for much faster work (and work off the master branch):
+### Github
+You can push to master to see changes of the web site, but a local tool in Docker or Ubuntu will greatly speed up development (and let you edit away from the master branch).
+
+### Docker
+
+If you have docker running, the quickest dev enviornment that mounts the local directories in a container is (working in the home directory of the cloned repository):
+
+```sh
+docker run --rm --volume="$PWD/docs:/srv/jekyll" --publish 4000:4000 jekyll/jekyll jekyll serve
+```
+
+### Ubuntu
 
 ```bash
 # Ubuntu 18.04 desktop
