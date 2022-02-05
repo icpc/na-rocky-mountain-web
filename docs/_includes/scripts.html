@@ -25,7 +25,7 @@
          // https://www.dwuser.com/education/content/easy-javascript-jquery-countdown-clock-builder/
          //  // from: 02/29/2020 02:00 am -0500
          // convert time to UTC: https://www.onlineconverter.com/time-zone
-         var contestDateTime = new Date("2019-10-26T16:00:00.000Z") // UTC time; convert contest start time to UTC
+         var contestDateTime = new Date("{{site.data.contest.date.utc}}") // UTC time; convert contest start time to UTC
          var countdown =
          	contestDateTime.getTime() / 1000 - new Date().getTime() / 1000
          countdown = Math.max(1, countdown)

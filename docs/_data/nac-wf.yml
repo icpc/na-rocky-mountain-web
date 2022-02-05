@@ -1,17 +1,17 @@
 # NA Championship info
 nac:
   icon: icon-trophy
-  name: Georgia Tech
+  name: University of Central Florida
   country: USA
   url: http://nac.icpc.global/
-  year: 2020
+  year: 2022
   email: contact@hostsite
 
 # World Finals Host info Info
 world_final:
   icon: icon-globe
-  name: Moscow Institute of Physics and Technology
-  country: Russia
+  name: TBD
+  country: TBD
   url: https://icpc.baylor.edu/
-  year: 2020
+  year: 2022
   email: contact@hostsite

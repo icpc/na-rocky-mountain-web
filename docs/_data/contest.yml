@@ -1,11 +1,12 @@
 # data for contest information
-year: 2020 # contest year
+year: 2021-2022 # contest year
 
 date:
-    regular: March 2, 2021 # regular registration deadline
-    late: March 2, 2021 # late registration deadline
-    practice: March 4, 2021 at 12 noon MST for 36 hours
-    contest: March 6, 2021 at 12 noon MST for 5 hours
+    regular: February 17, 2022 # regular registration deadline
+    late: March 6, 2022 # late registration deadline
+    practice: March 11, 2022 at 6 pm MST for 2 hours
+    contest: March 12, 2022 at 10 am MST for 5 hours
+    utc: 2022-03-12T17:17:00.000Z
 
 # registration fees for different countries participating in the region
 fees:
