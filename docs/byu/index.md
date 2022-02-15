@@ -59,14 +59,10 @@ The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended fo
 Teams will provide their own laptops (up to 3 per team, 1 per team member), you are encouraged to use a configuration similar to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/) (currently last year's environment is show).
 
 Kattis judges submissions using the following languages/versions:
-
-```
-Languages
-   *C++*, see [kattis page](https://open.kattis.com/help/cpp), we use gcc version g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0 with the following flags: -g -O2 -std=gnu++17 -static {files}.  You are allowed to use all standard libraries with C++.
-   *Java*, see [kattis page](https://open.kattis.com/help/java), we use OpenJDK version javac 11.0.8 with the following flags: -encoding UTF-8 -sourcepath {path} -cp {path}/* -d {path} {files}.  For Java, we use the following runtime flags: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms{memlim}m -Xmx{memlim}m -cp {path}:{path}/*.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Java.
-   *Kotlin*, see [kattis page](https://open.kattis.com/help/kotlin), we use Kotlin version info: kotlinc-jvm 1.3.0 (JRE 11.0.8+10-post-Ubuntu-0ubuntu120.04) with the following flags: -d {path} -Djava.io.tmpdir={path} {files}.  For Kotlin, we use the following runtime flags: -J-XX:+UseSerialGC -J-Xss64m -J-Xms{memlim}m -J-Xmx{memlim}m -cp {path}.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Kotlin.
-   *Python 3*, see [kattis page](https://open.kattis.com/help/python3), we use PyPy version Python 3.6.9 (7.3.1+dfsg-4, Apr 22 2020, 05:15:29) with the following flags: {files}.  You are allowed to use all standard libraries included with Python 3.
-```
+   * *C++*, see [kattis page](https://open.kattis.com/help/cpp), we use gcc version g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0 with the following flags: -g -O2 -std=gnu++17 -static {files}.  You are allowed to use all standard libraries with C++.
+   * *Java*, see [kattis page](https://open.kattis.com/help/java), we use OpenJDK version javac 11.0.8 with the following flags: -encoding UTF-8 -sourcepath {path} -cp {path}/* -d {path} {files}.  For Java, we use the following runtime flags: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms{memlim}m -Xmx{memlim}m -cp {path}:{path}/*.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Java.
+   * *Kotlin*, see [kattis page](https://open.kattis.com/help/kotlin), we use Kotlin version info: kotlinc-jvm 1.3.0 (JRE 11.0.8+10-post-Ubuntu-0ubuntu120.04) with the following flags: -d {path} -Djava.io.tmpdir={path} {files}.  For Kotlin, we use the following runtime flags: -J-XX:+UseSerialGC -J-Xss64m -J-Xms{memlim}m -J-Xmx{memlim}m -cp {path}.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Kotlin.
+   * *Python 3*, see [kattis page](https://open.kattis.com/help/python3), we use PyPy version Python 3.6.9 (7.3.1+dfsg-4, Apr 22 2020, 05:15:29) with the following flags: {files}.  You are allowed to use all standard libraries included with Python 3.
 
 ## KATTIS ACCOUNT / ALLOWED MATERIALS
 
