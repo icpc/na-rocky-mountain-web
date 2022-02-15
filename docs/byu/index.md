@@ -22,14 +22,14 @@ Detailed maps of parking lots are available [here](https://map.byu.edu).  There 
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, October 25 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
-Saturday, October 26 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
+Friday, March 11 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
+Saturday, March 12 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
-All contest activities will be hosted at contest location. See above for location and parking.
+All contest activities will be hosted at the contest location. See above for location and parking.
 
-## Friday, October 25
+## Friday, March 11
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
@@ -37,7 +37,7 @@ All contest activities will be hosted at contest location. See above for locatio
 | 6:30-7:30 PM |     | Banquet and door prizes |
 | 7:30-9:30 PM |     | Official practice time  |
 
-## Saturday, October 26
+## Saturday, March 12
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
@@ -56,35 +56,22 @@ The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended fo
 
 ## COMPUTING ENVIRONMENT
 
-Each team will get one Linux virtual machine with a configuration like the [world-finals environment](https://icpc.baylor.edu/worldfinals/programming-environment).
+Teams will provide their own laptops (up to 3 per team, 1 per team member), you are encouraged to use a configuration similar to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/) (currently last year's environment is show).
+
+Kattis judges submissions using the following languages/versions:
 
 ```
-Ubuntu 18.04.3 LTS Linux (64-bit), running on an i5-6500@3.2GHz [4 cores] with 8GB RAM allocated to the VM
-
-Editors:
-   vi/vim/gvim (8.0.1453)
-   emacs (25.2.2)
-   gedit (3.28.1)
-   geany (1.32)
-   kate (17.12.3)
-IDEs:
-   Eclipse with JDT, CDT, PyDev (2019-03, 4.11.0)
-   IntelliJ IDEA CE (2019.2.3)
-   CLion (2019.2.4)
-   Pycharm CE (2019.2.3)
-   Code::Blocks (17.12-1)
 Languages
-   Java (OpenJDK 11.0.4)
-   gcc/g++ 7.4.0 (gdb available)
-   Python 3.6.8 (NOT Python 2)
-   Kotlin 1.3.50-release-112
+   *C++*, see [kattis page](https://open.kattis.com/help/cpp), we use gcc version g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0 with the following flags: -g -O2 -std=gnu++17 -static {files}.  You are allowed to use all standard libraries with C++.
+   *Java*, see [kattis page](https://open.kattis.com/help/java), we use OpenJDK version javac 11.0.8 with the following flags: -encoding UTF-8 -sourcepath {path} -cp {path}/* -d {path} {files}.  For Java, we use the following runtime flags: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms{memlim}m -Xmx{memlim}m -cp {path}:{path}/*.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Java.
+   *Kotlin*, see [kattis page](https://open.kattis.com/help/kotlin), we use Kotlin version info: kotlinc-jvm 1.3.0 (JRE 11.0.8+10-post-Ubuntu-0ubuntu120.04) with the following flags: -d {path} -Djava.io.tmpdir={path} {files}.  For Kotlin, we use the following runtime flags: -J-XX:+UseSerialGC -J-Xss64m -J-Xms{memlim}m -J-Xmx{memlim}m -cp {path}.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Kotlin.
+   *Python 3*, see [kattis page](https://open.kattis.com/help/python3), we use PyPy version Python 3.6.9 (7.3.1+dfsg-4, Apr 22 2020, 05:15:29) with the following flags: {files}.  You are allowed to use all standard libraries included with Python 3.
 ```
 
-## KATTIS ACCOUNT
+## KATTIS ACCOUNT / ALLOWED MATERIALS
 
-Create an account (at least for one member per team) on open.kattis.com and remember your password.
-Only printed references will be allowed during the contest
-NO digital devices will be allowed to use during the contest
+Create an account (for *ALL* members on each team) on open.kattis.com and remember your password.
+Any material, online or printed, that was created prior to the contest will be allowed.
 
 ## HOTEL
 
@@ -94,15 +81,15 @@ Guests staying Friday night can book at one of the many hotels in town. There is
 
 You may bring your own food/beverages/snacks if you wish. Please note there is no food allowed in the computer labs/working area.
 
-If you have special dietary needs, please let us know. We will do our best to meet these requests and will let you know what to expect. We already have vegetarian options planned.
+
 
 ### Menu
 
 - Friday:
-    - Banquet: Taco Bar, Sodas
+    - TBD
 - Saturday:
-    -  Breakfast: Bagels, Fruit, Juice / Chocolate Milk
-    -  Lunch: Pizza, Sodas
+    -  Breakfast: TBD
+    -  Lunch: TBD
     -  Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
