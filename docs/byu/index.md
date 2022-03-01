@@ -22,7 +22,7 @@ Detailed maps of parking lots are available [here](https://map.byu.edu).  There 
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, March 11 from 5:30 - 8:00 PM at the contest location (room 3350 TMCB). See above for location and parking.
+Friday, March 11 from 5:00 - 6:00 PM at the contest location (room 3350 TMCB). See above for location and parking.
 Saturday, March 12 from 8:30 - 9:30 AM at the contest location (room 3350 TMCB). See above for location and parking.
 
 ## CONTEST SCHEDULE
