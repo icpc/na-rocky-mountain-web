@@ -22,8 +22,8 @@ Detailed maps of parking lots are available [here](https://map.byu.edu).  There 
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, March 11 from 5:30 - 9:30 PM at the contest location. See above for location and parking.
-Saturday, March 12 from 8:15 - 9:20 AM at the contest location. See above for location and parking.
+Friday, March 11 from 5:30 - 8:00 PM at the contest location. See above for location and parking.
+Saturday, March 12 from 8:30 - 9:30 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
@@ -33,23 +33,22 @@ All contest activities will be hosted at the contest location. See above for loc
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
-| 5:30-6:30 PM |     | Check in                |
-| 6:30-7:30 PM |     | Banquet and door prizes |
-| 7:30-9:30 PM |     | Official practice time  |
+| 5:00-6:00 PM |     | Check in                |
+| 6:00-8:00 PM |     | Official practice time  |
 
 ## Saturday, March 12
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:30-9:20  |     | Late check-in, continental breakfast  |
+| 8:30-9:30  |     | Late check-in  |
 | 9:30-9:50  |     | Meeting for all contestants           |
-| 10:00-3:00 |     | COMPETITION / Lunch provided at 11:30 |
+| 10:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
 | 3:00-3:30  |     | Results calculation                   |
 | 3:30-4:15  |     | Snacks and results announcement       |
 
 ## PRACTICE TIME
 
-The official practice time will be on Friday after dinner. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.
+The official practice time will be Friday from 6:00-8:00PM. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.  It also allows us to ensure that there are no errors in how teams are set up, that everyone can submit to the system, etc.
 
 There will be NO official practice time on Saturday before the contest.
 The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended for fairness purposes. Teams are recommended to wear contest shirts during the competition if they get one.
@@ -82,10 +81,9 @@ You may bring your own food/beverages/snacks if you wish. Please note there is n
 ### Menu
 
 - Friday:
-    - TBD
+    - Cookies
 - Saturday:
-    -  Breakfast: TBD
-    -  Lunch: TBD
+    -  Lunch: Pizza and Sodas
     -  Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
