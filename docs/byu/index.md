@@ -84,7 +84,6 @@ You may bring your own food/beverages/snacks if you wish. Please note there is n
     - Cookies
 - Saturday:
     -  Lunch: Pizza and Sodas
-    -  Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
 
