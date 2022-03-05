@@ -9,19 +9,15 @@
 Golden, CO 80401
 ```
 
-### Note
-
-Some details are still to be determined or may change, so please check this page later for any updates.
-
 ### Contest Location
 
-TBD
+Marquez Hall 022
 
-<!--The contest will be held in Maverick Innovation Center which is located on the first floor of the Pinon Hall on the south-west corner of Mesa Avenue and N. 12th Street -- north-east part (12th Street is East side and Orchard Ave is North side) of campus. You may view the campus interactive map [here](http://www.coloradomesa.edu/virtual-tour/index.html), or you may get a broader perspective using Google or other maps.-->
+The contest will be held in Marquez Hall, Room 022.  Marquez Hall is located at the corner of Arapahoe St. and 16th St in Golden, CO. You may view the campus interactive map [here](https://tour.mines.edu/map/).
 
 ### PARKING
 
-A map of parking lots and other parking information are available [here](https://www.mines.edu/parking/). Parking is free after 5 PM on weekdays and all day on weekends except for reserved (red) lots. The CT lot is the most convenient for accessing the contest location. <!--(Pinon Hall).-->
+A map of parking lots and other parking information are available [here](https://www.mines.edu/parking/). Parking is free after 5 PM on weekdays and all day on weekends except for reserved (red) lots. The CT (sometimes labeled CTLM) lot is the most convenient for accessing the contest location.
 
 ## CHECK-IN TIME AND LOCATION
 
@@ -72,7 +68,9 @@ Kotlin 1.2
 ```
 -->
 
-Each team is allowed to bring 3 laptops configured with the development environments of their choosing.  Official languages supported for the contest are: Java, C++, Python.
+Each team is allowed to bring 3 laptops configured with the development environments of their choosing.  Official languages supported for the contest are: Java, C++, Python 3, Kotlin.
+
+We will provide wifi access, however, if your home institution has eduroam, we strongly recommend you set up eduroam before coming to the competition.  Eduroam will be the easiest way to access Mines' network.
 
 ## KATTIS ACCOUNT
 
@@ -86,7 +84,7 @@ Guests staying Friday night can book at one of the many hotels near campus. Ther
 
 ## FOOD
 
-You may bring your own food/beverages/snacks if you wish. Please note there is no food allowed in the computer labs/working area.
+You may bring your own food/beverages/snacks if you wish. Please note there is no food allowed in the computer labs.
 
 If you have special dietary needs, please let us know. We will do our best to meet these requests and will let you know what to expect. We already have vegetarian options planned.
 
