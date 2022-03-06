@@ -60,34 +60,43 @@
         {% for fee in site.data.contest.fees %}
         <div class="col-sm-6">
           <h3>{{ fee.country }}</h3>
-          <h4>Regular Fee: {{ fee.regular }} </h3>
-            <h4>Late Fee: {{ fee.late }} </h4>
-            {% if fee.check %}
-            <div class="card">
-              <div class="card-body">
-                <h4 class="card-title">Check</h4>
-                <p class="card-text">
-                  Payable to: <strong>{{ fee.check.payable }}</strong><br>
-                  Mail to: <br>
-                  {% for add in fee.check.address %}
-                  <strong>{{ add.address }}</strong><br>
-                  {% endfor %}
-                </p>
-                <p class="card-text"><strong>Note: </strong>{{ fee.check.note }}</p>
-              </div>
+          <h4>Regular Fee: {{ fee.regular }} </h4>
+          <h4>Late Fee: {{ fee.late }} </h4>
+          {% if fee.check %}
+          <div class="card">
+            <div class="card-body">
+              <h4 class="card-title">Check</h4>
+              <p class="card-text">
+                Payable to: <strong>{{ fee.check.payable }}</strong><br>
+                Mail to: <br>
+                {% for add in fee.check.address %}
+                <strong>{{ add.address }}</strong><br>
+                {% endfor %}
+              </p>
+              <p class="card-text"><strong>Note: </strong>{{ fee.check.note }}</p>
             </div>
-            {% endif %}
-            {% if fee.credit %}
-            <div class="card">
-              <div class="card-body">
-                <h4 class="card-title">Credit</h4>
-                <p class="card-text"><strong>Note: </strong>{{ fee.credit.note }}</p>
-              </div>
+          </div>
+          {% endif %}
+          {% if fee.credit %}
+          <div class="card">
+            <div class="card-body">
+              <h4 class="card-title">Credit</h4>
+              <p class="card-text"><strong>Note: </strong>{{ fee.credit.note }}</p>
             </div>
-            {% endif %}
+          </div>
+          {% endif %}
         </div>
         {% endfor %}
       </div>
     </div>
-  </div>
+    <div class="row">
+      {% for hosts in site.data.hosts %}
+      <div class="col-sm-12">
+	<br/>
+        <h3 class="blackText">Host: {{ hosts.name }}</h3>
+        <p>Location: {{ hosts.location }}</p>
+	<p>URL: <a href="{{ hosts.url }}">{{ hosts.url }}</a></p>
+      </div>
+      {% endfor %}
+    </div>
 </div>
