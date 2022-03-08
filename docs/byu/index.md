@@ -33,8 +33,8 @@ All contest activities will be hosted at the contest location (3350 TMCB). See a
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
-| 5:00-6:00 PM |     | Check in                |
-| 6:00-8:00 PM |     | Official practice time  |
+| 6:00-7:00 PM |     | Check in                |
+| 7:00-9:00 PM |     | Official practice time  |
 
 ## Saturday, March 12
 
