@@ -1,12 +1,42 @@
 # data for contest information
-year: 2021-2022 # contest year
+year: 2023-2024 # contest year
 
 date:
-    regular: February 17, 2022 # regular registration deadline
-    late: March 6, 2022 # late registration deadline
-    practice: March 11, 2022 at 7 pm MST for 2 hours
-    contest: March 12, 2022 at 10 am MST for 5 hours
-    utc: 2022-03-12T17:17:00.000Z
+    regular: March 3, 2023 # regular registration deadline
+    late: March 10, 2023 # late registration deadline
+    practice: March 24, 2023 at 7 pm MST for 2 hours
+    contest: March 25, 2023 at 10 am MST for 5 hours
+    utc: 2023-03-25T16:00:00.000Z
 
 # registration fees for different countries participating in the region
+# registration fees for different countries participating in the region
 fees:
+    - country: US Universities
+      regular: 50 USD per team
+      late: 100 USD per team
+      check:
+          payable: Denver ACM # payable to
+          address:
+              - address: Denver ACM
+              - address: P.O. Box 440785
+              - address: Aurora, CO 80044
+          note: No purchase orders. Checks MUST have the school name on the memo line.
+      credit:
+          note:
+              Credit cards accepted through PayPal! Go to <a href="https://www.paypal.com" target="_blank">Paypal</a>
+              and select the Send Money tab. The email address to send money to blanche@acm.org, who is our accountant.
+              Be sure the school name is documented.
+    - country: Canadian Universities
+      regular: 75 CAN per team
+      late: 150 CAN per team
+      check:
+      
+          payable: University of Alberta # payable to
+          address:
+              - address: RMRC Regional Contest
+              - address: c/o Stephanie Brown
+              - address: Department of Computing Science
+              - address: 2-21 Athabasca Hall
+              - address: University of Alberta	      
+              - address: Edmonton, AB T6G 2E8
+          note: Checks MUST have the school name on the memo line.
