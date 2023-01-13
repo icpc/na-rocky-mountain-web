@@ -8,7 +8,7 @@ logourl: "#"
 # Banner | rocky.icpc.io
 banner: 
   bg-img: /img/NorthAmerica.png
-  image: /img/icpc-regional-header-rocky.png #/img/mountains.png #banner image on left side
+  image: /img/icpc-regional-header-rocky.svg #/img/mountains.png #banner image on left side
   title: Rocky Mountain Regional Contest (RMC)
   title2: A North American Regional
   description: International Collegiate Programming Contest (ICPC)
