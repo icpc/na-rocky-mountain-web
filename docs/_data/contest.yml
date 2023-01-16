@@ -4,9 +4,9 @@ year: 2023-2024 # contest year
 date:
     regular: February 10, 2023 # regular registration deadline
     late: February 18, 2023 # late registration deadline
-    practice: February 24, 2023 at 7 pm MST for 2 hours
-    contest: February 25, 2023 at 10 am MST for 5 hours
-    utc: 2023-02-25T16:00:00.000Z
+    practice: February 17, 2023 at 12 noon MST for 7 days
+    contest: February 25, 2023 at 12 noon MST for 5 hours
+    utc: 2023-02-25T18s:00:00.000Z
 
 # registration fees for different countries participating in the region
 # registration fees for different countries participating in the region
