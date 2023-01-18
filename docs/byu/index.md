@@ -63,7 +63,9 @@ the competition if they get one.
 
 Each team will get one Linux virtual machine with a configuration like the [world-finals environment](https://icpc.baylor.edu/worldfinals/programming-environment).
 
-Unlike recent years, we will not be using the [Kattis](https://open.kattis.com) online judge, we will instead be using PC^2.  Additional details will follow.
+Unlike recent years, we will not be using the [Kattis](https://open.kattis.com) online judge, we will instead be using PC^2.
+
+**Additional details will follow.
 
 ## PC^2 ACCOUNT / ALLOWED MATERIALS
 
