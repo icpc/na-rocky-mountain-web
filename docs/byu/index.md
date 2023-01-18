@@ -65,7 +65,7 @@ Each team will get one Linux virtual machine with a configuration like the [worl
 
 Unlike recent years, we will not be using the [Kattis](https://open.kattis.com) online judge, we will instead be using [PC^2](https://pc2ccs.github.io/).
 
-*Additional details about the competition platform will be available soon.
+*Additional details about the competition platform will be available soon.*
 
 ## PC^2 ACCOUNT / ALLOWED MATERIALS
 
