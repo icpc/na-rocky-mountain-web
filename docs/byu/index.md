@@ -22,55 +22,59 @@ Detailed maps of parking lots are available [here](https://map.byu.edu).  There 
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, March 11 from 5:00 - 6:00 PM at the contest location (room 3350 TMCB). See above for location and parking.
-Saturday, March 12 from 8:30 - 9:30 AM at the contest location (room 3350 TMCB). See above for location and parking.
+Friday, February 24 from 5:00 - 6:00 PM at the contest location (room 3350 TMCB). See above for location and parking.
+Saturday, February 25 from 10:00 - 10:30 AM at the contest location (room 3350 TMCB). See above for location and parking.
 
 ## CONTEST SCHEDULE
 
 All contest activities will be hosted at the contest location (3350 TMCB). See above for location and parking.  The practice time and actual competition will be held in the computer labs on the bottom floor of the Talmage building.
 
-## Friday, March 11
+## Friday, February 24
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
-| 6:00-7:00 PM |     | Check in                |
+| 5:00-6:00 PM |     | Check in                |
+| 6:00-7:00 PM |     | Opening Ceremony / Dinner |
 | 7:00-9:00 PM |     | Official practice time  |
 
-## Saturday, March 12
+## Saturday, February 25
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:30-9:30  |     | Late check-in  |
-| 9:30-9:50  |     | Meeting for all contestants           |
-| 10:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
-| 3:00-3:30  |     | Results calculation                   |
-| 3:30-4:15  |     | Snacks and results announcement       |
+| 10:00-10:30 AM  |     | Late check-in  |
+| 10:30-11:00 AM  |     | Meeting for all contestants           |
+| 11:00-11:45 AM  |     | Bruch/Lunch           |
+| 12:00-5:00 PM |     | COMPETITION |
+| 5:00-5:30 PM  |     | Results calculation                   |
+| 5:30-6:15 PM  |     | Closing Ceremony / Results and Awards announcement       |
 
 ## PRACTICE TIME
 
-The official practice time will be Friday from 6:00-8:00PM. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.  It also allows us to ensure that there are no errors in how teams are set up, that everyone can submit to the system, etc.
+The official practice time will be Friday from 7:00-9:00PM. Practice will be held at Contest Location. The regional judges will operate their servers and
+contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend.
+This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.  It also allows us to ensure that
+there are no errors in how teams are set up, that everyone can submit to the system, etc.
 
 There will be NO official practice time on Saturday before the contest.
-The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended for fairness purposes. Teams are recommended to wear contest shirts during the competition if they get one.
+The contest runs from 12:00 to 5:00 PM, and is sometimes slightly extended for fairness purposes. Teams are recommended to wear contest shirts during
+the competition if they get one.
 
 ## COMPUTING ENVIRONMENT
 
-Teams will provide their own laptops (up to 3 per team, 1 per team member), you are encouraged to use a configuration similar to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/) (currently last year's environment is show).
+Each team will get one Linux virtual machine with a configuration like the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/).
 
-Kattis judges submissions using the following languages/versions:
-   * *C++*, see [kattis page](https://open.kattis.com/help/cpp), we use gcc version g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0 with the following flags: -g -O2 -std=gnu++17 -static {files}.  You are allowed to use all standard libraries with C++.
-   * *Java*, see [kattis page](https://open.kattis.com/help/java), we use OpenJDK version javac 11.0.8 with the following flags: -encoding UTF-8 -sourcepath {path} -cp {path}/* -d {path} {files}.  For Java, we use the following runtime flags: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms{memlim}m -Xmx{memlim}m -cp {path}:{path}/*.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Java.
-   * *Kotlin*, see [kattis page](https://open.kattis.com/help/kotlin), we use Kotlin version info: kotlinc-jvm 1.3.0 (JRE 11.0.8+10-post-Ubuntu-0ubuntu120.04) with the following flags: -d {path} -Djava.io.tmpdir={path} {files}.  For Kotlin, we use the following runtime flags: -J-XX:+UseSerialGC -J-Xss64m -J-Xms{memlim}m -J-Xmx{memlim}m -cp {path}.  Here {memlim} is the actual memory limit for the problem you are submitting to.  You are allowed to use all standard libraries included with Kotlin.
-   * *Python 3*, see [kattis page](https://open.kattis.com/help/python3), we use PyPy version Python 3.6.9 (7.3.1+dfsg-4, Apr 22 2020, 05:15:29) with the following flags: {files}.  You are allowed to use all standard libraries included with Python 3.
+Unlike recent years, we will not be using the [Kattis](https://open.kattis.com) online judge, we will instead be using [PC^2](https://pc2ccs.github.io/).
 
-## KATTIS ACCOUNT / ALLOWED MATERIALS
+*Additional details about the competition platform will be available soon.*
 
-Create an account (for *ALL* members on each team) on open.kattis.com and remember your password.
+## PC^2 ACCOUNT / ALLOWED MATERIALS
+
 Any material, online or printed, that was created prior to the contest will be allowed.
 
 ## HOTEL
 
-Guests staying Friday night can book at one of the many hotels in town. There is not a specific hotel that we recommend, nor are there rooms blocked or a special rate for the contest.
+Guests staying Friday night can book at one of the many hotels in town. There is not a specific hotel that we recommend, nor are there rooms blocked
+or a special rate for the contest.
 
 ## FOOD
 
@@ -81,9 +85,9 @@ You may bring your own food/beverages/snacks if you wish. Please note there is n
 ### Menu
 
 - Friday:
-    - Cookies
+    - TBD
 - Saturday:
-    -  Lunch: Pizza and Sodas
+    -  TBD
 
 ## CONTACT INFORMATION
 
