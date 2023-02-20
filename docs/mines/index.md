@@ -57,7 +57,7 @@ The contest runs from 12:00 PM to 5:00 PM, and is sometimes slightly extended fo
 
 ## COMPUTING ENVIRONMENT
 
-Each team will get one Linux virtual machine with the following configuration.
+Each team will get one Linux machine with the following configuration.
 
 ```
 Ubuntu 22.04
