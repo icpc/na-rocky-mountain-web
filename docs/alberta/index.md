@@ -21,8 +21,9 @@ Detailed maps of parking lots are available at [here](https://www.ualberta.ca/pa
 
 ## START TIMES
 
-Friday, October 25 from 5:30 - 9:00 PM at the contest location. See above for location and parking. The warmup contest begins at 7:00pm.
-Saturday, October 26 from 8:30 - 9:30 AM at the contest location. See above for location and parking.
+Friday, February 24 from 5:30 - 9:00 PM at the contest location. See above for location and parking. The warmup contest begins at 7:00 PM. It is recommended you check in before 6:30 PM, we will be open as early as 5:30 PM.
+
+Saturday, February 25 from 8:30 - 9:30 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
