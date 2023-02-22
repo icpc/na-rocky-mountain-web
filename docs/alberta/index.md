@@ -29,7 +29,7 @@ Saturday, February 25 from 8:30 - 9:30 AM at the contest location. See above for
 
 All contest activities will be hosted at contest location. See above for location and parking.
 
-## Friday, October 25
+## Friday, February 24
 
 | Time         |     | Activity                      |
 | ------------ | --- | ----------------------------- |
@@ -37,7 +37,7 @@ All contest activities will be hosted at contest location. See above for locatio
 | 6:45-7:00 PM |     | Welcome and brief orientation |
 | 7:00-9:00 PM |     | Official practice time        |
 
-## Saturday, October 26
+## Saturday, February 25
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
@@ -63,8 +63,6 @@ The contest runs from 12:00 PM to 5:00 PM. Teams are recommended to wear contest
 ## LOCAL RESOURCES
 
 See [here](https://image.icpc.global/pac2022/environment.html) for information on the contest OS environment including editors, compilers/interpreters, and available language documentation.
-
-
 
 ## HOTEL
 
