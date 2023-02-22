@@ -70,7 +70,7 @@ Guests staying Friday night can book at one of the many hotels in town. There is
 
 ## FOOD
 
-You may bring your own food/beverages/snacks if you wish, but we will be providing dinner on Friday as well as breakfast/lunch/dinner on Saturday. Please note there is no food allowed in the computer labs/working area.
+You may bring your own food/beverages/snacks if you wish, but we will be providing dinner on Friday as well as breakfast/lunch/dinner on Saturday. Please note there is no food allowed in the computer labs/working area. Any beverages in the lab must be in an enclosed container so it does not spill if you tip it.
 
 If you have special dietary needs, please let us know as soon as possible by emailing Zachary Friggstad directly. We will do our best to meet these requests and will let you know what to expect.
 
