@@ -41,9 +41,9 @@ All contest activities will be hosted at contest location. See above for locatio
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 10:00-11:00 |     | Muffins and Coffee (optional)                 |
-| 11:00-11:15 |     | Meeting for all contestants           |
-| 11:15-12:00 |    | Lunch (Pizza) |
+| 9:30-11:00 |     | Late Registration, Muffins and Coffee (optional)                 |
+| 11:00-12:00 |    | Lunch (Pizza) |
+| 11:30-11:45 |     | Meeting for all contestants           |
 | 12:00-5:00 |     | COMPETITION |
 | 2:00-2:30 |     | Coaches meeting                       |
 | 5:15-6:00  |     | Post-contest presentation         |
