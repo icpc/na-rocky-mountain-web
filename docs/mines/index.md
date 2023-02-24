@@ -28,7 +28,7 @@ Saturday, February 25 from 10:30 - 11:30 AM at the contest location. See above f
 
 All contest activities will be hosted at contest location. See above for location and parking.
 
-## Friday, March 11
+## Friday, Feb 24
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
@@ -37,7 +37,7 @@ All contest activities will be hosted at contest location. See above for locatio
 | 6:30-7:00 PM |     | Instructions            |
 | 7:00-9:00 PM |     | Official practice time  |
 
-## Saturday, March 12
+## Saturday, Feb 25
 
 | Time           |     | Activity                               |
 | -------------- | --- | -------------------------------------- |
