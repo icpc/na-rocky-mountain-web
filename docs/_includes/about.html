@@ -1,5 +1,17 @@
 <!-- Start About -->
 <div id="about" class="about">
+  {% if site.data.about.standings or site.data.about.problems %}
+  <div class="container-fluid">
+    <h3 class="section-title">Conclusion</h2>
+    <p>Thanks for participating!</p>
+    {% if site.data.about.standings %}
+    The final standings are at <a href="{{ site.data.about.standings }}">{{ site.data.about.standings }}</a></p>
+    {% endif %}
+    {% if site.data.about.problems %}
+    <p>Problems are at <a href="{{ site.data.about.problems }}">{{ site.data.about.problems }}</a></p>
+    {% endif %}
+  </div>
+  {% endif %}
   <div class="container-fluid">
     <h2 class="section-title">About</h2>
     <div class="row">
