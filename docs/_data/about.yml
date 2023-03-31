@@ -11,6 +11,4 @@ rmc: RMC represents the geographic area of Arizona, Utah, Colorado, Wyoming, Eas
       World Finals for bragging rights and schloarships.
 
 standings: rmc22-23/index3.html
-#standings: https://icpc.global/regionals/finder/Rocky-Mountain-2022/standings
-#standings: https://icpc.global/regionals/finder/Rocky-Mountain-2022/standings
-#problems: TBD
+problems: https://github.com/icpc/na-rocky-mountain-2022-2023-public
