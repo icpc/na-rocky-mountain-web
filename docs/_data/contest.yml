@@ -1,19 +1,18 @@
 # data for contest information
-year: 2022-2023 # contest year
+year: 2023-2024 # contest year
 
 date:
-    regular: February 10, 2023 # regular registration deadline
-    late: February 18, 2023 # late registration deadline
-    practice: Friday, February 17 through Thursday, February 23
-    contest: February 25, 2023 at 12 noon MST for 5 hours
-    utc: 2023-02-25T18s:00:00.000Z
+    regular: October 21, 2023 # regular registration deadline
+    late: November 1, 2023 # late registration deadline
+    practice: November 3, 2023
+    contest: November 4, 2024
+    utc: 2023-11-04T10:00:00.000Z # ISO-8601, like 2023‐07‐16T12:01:48.000Z
 
-# registration fees for different countries participating in the region
 # registration fees for different countries participating in the region
 fees:
     - country: US Universities
-      regular: 50 USD per team
-      late: 100 USD per team
+      regular: 75 USD per team
+      late: 150 USD per team
       check:
           payable: Denver ACM # payable to
           address:
@@ -27,8 +26,8 @@ fees:
               and select the Send Money tab. The email address to send money to blanche@acm.org, who is our accountant.
               Be sure the school name is documented.
     - country: Canadian Universities
-      regular: 75 CAN per team
-      late: 150 CAN per team
+      regular: 100 CAN per team
+      late: 200 CAN per team
       check:
       
           payable: University of Alberta # payable to

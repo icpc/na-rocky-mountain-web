@@ -1,17 +1,17 @@
 # NA Championship info
 nac:
   icon: icon-trophy
-  name: University of Central Florida
-  country: USA
+#  name: University of Central Florida
+#  country: USA
   url: http://nac.icpc.global
-  year: 2023
-  email: manager@icpc.global
+#  year: 2023
+#  email: manager@icpc.global
 
 # World Finals Host info Info
 world_final:
   icon: icon-globe
-  name: TBD
-  country: TBD
+#  name: TBD
+#  country: TBD
   url: https://worldfinals.icpc.global/
-  year: 2023
-  email: manager@icpc.global
+#  year: 2023
+#  email: manager@icpc.global

@@ -4,7 +4,7 @@ layout: page
 
 # Contest Rules
 
-The ICPC maintains the [official rules](http://icpc.baylor.edu/regionals/rules) that apply by default to all regional contests. Individual regions may clarify and/or extend these rules as they see fit. Most of the clarifications and extensions for the regional contest are defined in this page and in the Notes to Teams document (which is provided to all teams on the day of the contest).
+The ICPC maintains the [official rules](https://icpc.global/regionals/rules) that apply by default to all regional contests. Individual regions may clarify and/or extend these rules as they see fit. Most of the clarifications and extensions for the regional contest are defined in this page and in the Notes to Teams document (which is provided to all teams on the day of the contest).
 
 ## Electronic Devices
 Except for simple watches, teams may not have any electronic devices in their possession during the contest. This includes, but is not limited to, phones and other communication devices, calculators, calculator watches, PDAs, electronic translators or dictionaries, e-books, audio players/recorders, video players/recorders, scanners, and printers. Mere possession of such a device will result in immediate disqualification, regardless of whether or not it was used.
@@ -16,7 +16,7 @@ There is no late registration. If you do not register via the ICPC web site by t
 Teams may not possess any machine-readable electronic or magnetic media during the contest unless provided by the site explicitly for contest use. Violation of this rule will result in immediate disqualification, regardless of intent or whether the media were actually used.
 
 ## Reference Materials
-The World Finals only allow teams to have 25 pages of reference material in PDF format, which is verified and printed out for the team for its use during the contest. For the Mid-Central USA contest, teams may bring any amount of printed reference material, including printouts of source code. If you have a book that includes a CD, be sure to leave the CD at home; see above.
+The World Finals only allow teams to have 25 pages of reference material in PDF format, which is verified and printed out for the team for its use during the contest. For the regional contest, teams may bring any amount of printed reference material, including printouts of source code. If you have a book that includes a CD, be sure to leave the CD at home; see above.
 
 ## Registration Priority
 Our primary goal is to maximize the number of teams that participate in the contest; our secondary goal is to maximize the number of schools.

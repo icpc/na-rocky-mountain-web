@@ -12,17 +12,15 @@ banner:
   title: Rocky Mountain Regional Contest (RMC)
   title2: A North American Regional
   description: International Collegiate Programming Contest (ICPC)
-  contest_date: February 25, 2023
-
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
-sponsorship_contact:
-  name: Ram Basnet
-  title: Event Coordinator
-  email: rbasnet@coloradomesa.edu
+#sponsorship_contact:
+#  name: Ram Basnet
+#  title: Event Coordinator
+#  email: rbasnet@coloradomesa.edu
 
 # Social settings
 facebook:

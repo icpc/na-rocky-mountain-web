@@ -5,7 +5,7 @@ layout: page
 # Information for Contestants
 Getting ready for ICPC? Make sure you go through this checklist:
 
-- Make sure you’re eligible to compete. This [PDF flowchart](https://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2018.pdf) might help.
+- Make sure you are  [eligible to compete](https://icpc.global/regionals/rules).
 - Find a coach and two teammates (unless they found you first).
 - Make sure your coach registers your team before the deadline.
 - Understand the regional contest rules.
