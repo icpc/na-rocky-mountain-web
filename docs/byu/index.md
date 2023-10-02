@@ -62,9 +62,9 @@ the competition if they get one.
 
 ## COMPUTING ENVIRONMENT
 
-Each team will receive a workstation with a Linux virtual machine with a configuration akin to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/).
+Each team will be provided a workstation with a Linux configuration akin to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/).
 
-We will again be using the [Kattis](https://open.kattis.com) online judge.
+We will again be using the [Kattis](https://open.kattis.com) online judge for the contest.
 
 *Additional details about the competition platform will be available soon.*
 
