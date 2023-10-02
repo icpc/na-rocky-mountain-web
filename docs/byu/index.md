@@ -41,12 +41,12 @@ All contest activities will be hosted at the contest location (3350 TMCB). See a
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 10:00-10:30 AM |     | Late check-in  |
-| 10:15-10:45 AM |     | Meeting for all contestants           |
+| 9:30-10:20 AM |     | Late check-in, breakfast  |
+| 10:20-10:50 AM |     | Meeting for all contestants           |
 | 11:00-4:00 PM |     | COMPETITION |
-| 1:00-3:00 PM  |     | Lunch           |
-| 5:00-5:30 PM  |     | Results calculation                   |
-| 5:30-6:15 PM  |     | Post-contest presentation Closing Ceremony / Results and Awards announcement       |
+| 1:00 PM  |     | Lunch (Pizza) available    |
+| TBD  |     | Break                   |
+| TBD  |     | Post-contest presentation (Discussion of Solutions / Presentation of Awards) |
 | 6:00-7:30 PM  |     | Banquet |
 
 ## PRACTICE TIME
