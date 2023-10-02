@@ -17,19 +17,22 @@ The contest will be held in the Computing Science Centre (CSC) on the first floo
 
 ### PARKING
 
-Detailed maps of parking lots are available at [here](https://www.ualberta.ca/parking-services). Parking will cost at most $5.50 per day after 6pm on Friday or all day on the Weekend. The Stadium Parkade is very close to CSC.
+Detailed maps of parking lots are available at [here](https://www.ualberta.ca/parking-services). Parking will cost $5.50 per day after 5:30pm on Friday or all day on the Weekend. The Stadium Parkade is very close to CSC.
 
-## START TIMES
+## CHECK-IN TIME AND LOCATION
 
-Friday, February 24 from 5:30 - 9:00 PM at the contest location. See above for location and parking. The warmup contest begins at 7:00 PM. It is recommended you check in before 6:30 PM, we will be open as early as 5:30 PM.
-
-Saturday, February 25 from 8:30 - 9:30 AM at the contest location. See above for location and parking.
+SCHEDULE TBD
 
 ## CONTEST SCHEDULE
 
 All contest activities will be hosted at contest location. See above for location and parking.
 
 ## Friday, February 24
+
+The following schedule is from the 2022 RMC. The new schedule
+will be posted once it is known. We will still provide the same meals: Friday evening dinner, Saturday breakfast, lunch, and dinner afterward.
+
+**LAST YEAR'S SCHEDULE**
 
 | Time         |     | Activity                      |
 | ------------ | --- | ----------------------------- |
@@ -62,7 +65,7 @@ The contest runs from 12:00 PM to 5:00 PM. Teams are recommended to wear contest
 
 ## LOCAL RESOURCES
 
-See [here](https://image.icpc.global/pac2022/environment.html) for information on the contest OS environment including editors, compilers/interpreters, and available language documentation.
+TBD
 
 ## HOTEL
 
