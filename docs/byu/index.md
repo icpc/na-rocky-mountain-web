@@ -64,7 +64,7 @@ the competition if they get one.
 
 Each team will be provided a workstation with a Linux configuration akin to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/).
 
-We will again be using the [Kattis](https://open.kattis.com) online judge for the contest.
+We will again be using the [Kattis](https://open.kattis.com) online judge for the contest.  The official programming languages supported for the contest are: C, C++, Java, Kotlin and Python 3.
 
 *Additional details about the competition platform will be available soon.*
 
