@@ -41,12 +41,12 @@ All contest activities will be hosted at contest location. See above for locatio
 
 | Time           |     | Activity                               |
 | -------------- | --- | -------------------------------------- |
-| 10:30-11:30 AM |     | Late check-in                          |
-| 11:00 AM       |     | Lunch (sandwiches) available           |
-| 11:30-11:50 AM |     | Meeting for all contestents            |
-| 12:00-5:00 PM  |     | COMPETITION / Snacks available at 1:30 |
-| 5:00-5:30 PM   |     | Results calculation                    |
-| ~6:00-6:30 PM  |     | Results announcement                   |
+| 9:30-10:30 AM |     | Late check-in                          |
+| 10:00 AM       |     | Breakfast (sandwiches) available           |
+| 10:30-10:50 AM |     | Meeting for all contestents            |
+| 11:00 AM -4:00 PM  |     | COMPETITION / Snacks available at 1:00 |
+| 4:00-4:30 PM   |     | Results calculation                    |
+| ~5:00-5:30 PM  |     | Results announcement                   |
 
 ## PRACTICE TIME
 
