@@ -27,14 +27,14 @@ Late check-ins 9:30 a.m. on Saturday, November 4
 ## CONTEST SCHEDULE
 
 TBD
-## Friday, March 24
+## Friday,November 3, 2023
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
 | 6:00-7:00 PM |     | Check in                |
 | 7:00-9:00 PM |     | Official practice time  |
 
-## Saturday, March 25
+## Saturday, November 4, 2023
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
@@ -47,7 +47,7 @@ TBD
 
 ## PRACTICE TIME
 
-The official practice time will be Friday from 6:00-8:00PM. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.  It also allows us to ensure that there are no errors in how teams are set up, that everyone can submit to the system, etc.
+The official practice time will be Friday from 6:00-9:00PM. Practice will be held at Contest Location. The regional judges will operate their servers and contestants will be given a few practice problems that parallel the format of the actual problems on Saturday. All teams are strongly encouraged to attend. This gives you a chance to be familiar with the contest, systems, tools and debugging techniques prior to the contest.  It also allows us to ensure that there are no errors in how teams are set up, that everyone can submit to the system, etc.
 
 There will be NO official practice time on Saturday before the contest.
 The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended for fairness purposes. Teams are recommended to wear contest shirts during the competition if they get one.
