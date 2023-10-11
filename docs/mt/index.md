@@ -1,6 +1,6 @@
 # Rocky Mountain Regional ICPC Host Site
 
-# Brigham Young University (BYU)
+# Montana Technological University
 
 ## SITE LOCATION
 
