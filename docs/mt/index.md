@@ -7,19 +7,22 @@
 ### Main Address
 
 ```
-TBD
+1300 West Park Street
+Butte MT 59701
 ```
 
 ### Contest Location
 
-TBD
+Natural Resources Building (NRB)
+Room 228
 ### PARKING
 
-TBD
+Park in the lot north of the building, and use the north entrance
 
 ## CHECK-IN TIME AND LOCATION
 
-TBD
+6:00 - 7:00 p.m. on Friday, November 3
+Late check-ins 9:30 a.m. on Saturday, November 4
 
 ## CONTEST SCHEDULE
 
@@ -35,11 +38,12 @@ TBD
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:30-9:30  |     | Late check-in  |
-| 9:30-9:50  |     | Meeting for all contestants           |
-| 10:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
-| 3:00-3:30  |     | Results calculation                   |
-| 3:30-4:15  |     | Snacks and results announcement       |
+| 9:30-10:30 |     | Late check-in  |
+| 10:30-10:50|     | Meeting for all contestants           |
+| 11:00-4:00 |     | COMPETITION / Lunch provided at 12:00 |
+| 4:00-4:30  |     | Results calculation                   |
+| 4:30-5:00  |     | Snacks and results announcement       |
+| 6:30-8:30  |     | Dinner (location TBD)                 |
 
 ## PRACTICE TIME
 
