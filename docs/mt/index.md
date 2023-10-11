@@ -66,9 +66,17 @@ TBD
 
 ## FOOD
 
-TBD
+Food will be provided throughout the contest.  We will provide snacks on Friday night; and breakfast and lunch on the day of the contest.  Contestants and coaches are invited to attend a dinner on Saturday night after the contest.
+
+Please let us know if you have any dietary needs!  Email mholmes2@mtech.edu.
 
 ### Menu
 
 ## CONTACT INFORMATION
+Dr. Melissa E. Holmes
+Computer Science & Software Engineering Instructor
+Montana Technological University
+1300 West Park
+Butte MT 59701
+406.496.4855
 
