@@ -41,7 +41,7 @@ All contest activities apart from the Saturday banquet will take place on the fi
 | 12:00-1:00 |     | Lunch arrives |
 | 1:00-1:30 |     | Coaches meeting                       |
 | 4:15-5:00  |     | Post-contest presentation         |
-| 5:30-7:30 |     | Banquet, location TBD (at the U of A) |
+| 5:30-7:30 |     | Banquet - Aurora Room in Lister Conference Centre |
 
 ## BANQUET
 The banquet will held on campus at the U of A. The exact location is to be determined (likely in Lister Conference Centre).
@@ -55,7 +55,10 @@ Teams should wear contest shirts during the competition if they get one.
 
 ## LOCAL RESOURCES
 
-Check back for information about the contest environment and acceptable resources (eg. online language references).
+Each team will be provided a workstation with a Linux configuration akin to the [world-finals environment](https://docs.icpc.global/worldfinals-programming-environment/). Read the description at that site for language versions, editors/IDEs, compilation/running instructions, and references that will be available locally on the image.
+
+We will again be using the [Kattis online judge](https://open.kattis.com/) for the contest. The official programming languages supported for the contest are: C, C++, Java, Kotlin and Python 3.
+
 
 ## HOTEL
 
