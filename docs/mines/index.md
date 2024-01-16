@@ -11,9 +11,9 @@ Golden, CO 80401
 
 ### Contest Location
 
-Marquez Hall 022
+Marquez Hall 026
 
-The contest will be held in Marquez Hall, Room 022.  Marquez Hall is located at the corner of Arapahoe St. and 16th St in Golden, CO. You may view the campus interactive map [here](https://tour.mines.edu/map/).
+The contest will be held in Marquez Hall, Room 026.  Marquez Hall is located at the corner of Arapahoe St. and 16th St in Golden, CO. You may view the campus interactive map [here](https://tour.mines.edu/map/).
 
 ### PARKING
 
@@ -21,14 +21,14 @@ A map of parking lots and other parking information are available [here](https:/
 
 ## CHECK-IN TIME AND LOCATION
 
-Friday, February 24 from 5:30 - 9:00 PM at the contest location. See above for location and parking.
-Saturday, February 25 from 10:30 - 11:30 AM at the contest location. See above for location and parking.
+Friday, November 3 from 5:30 - 9:00 PM at the contest location. See above for location and parking.
+Saturday, November 4 from 10:30 - 11:30 AM at the contest location. See above for location and parking.
 
 ## CONTEST SCHEDULE
 
 All contest activities will be hosted at contest location. See above for location and parking.
 
-## Friday, Feb 24
+## Friday, November 3
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
@@ -37,16 +37,16 @@ All contest activities will be hosted at contest location. See above for locatio
 | 6:30-7:00 PM |     | Instructions            |
 | 7:00-9:00 PM |     | Official practice time  |
 
-## Saturday, Feb 25
+## Saturday, November 4
 
 | Time           |     | Activity                               |
 | -------------- | --- | -------------------------------------- |
-| 10:30-11:30 AM |     | Late check-in                          |
-| 11:00 AM       |     | Lunch (sandwiches) available           |
-| 11:30-11:50 AM |     | Meeting for all contestents            |
-| 12:00-5:00 PM  |     | COMPETITION / Snacks available at 1:30 |
-| 5:00-5:30 PM   |     | Results calculation                    |
-| ~6:00-6:30 PM  |     | Results announcement                   |
+| 9:30-10:30 AM |     | Late check-in                          |
+| 10:00 AM       |     | Breakfast (sandwiches) available           |
+| 10:30-10:50 AM |     | Meeting for all contestents            |
+| 11:00 AM -4:00 PM  |     | COMPETITION / Snacks available at 1:00 |
+| 4:00-4:30 PM   |     | Results calculation                    |
+| ~5:00-5:30 PM  |     | Results announcement                   |
 
 ## PRACTICE TIME
 
@@ -101,5 +101,5 @@ Saturday snacks: TBD
 
 ## CONTACT INFORMATION
 
--   Christopher Painter-Wakefield - [cpainter@mines.edu](mailto:cpainter@mines.edu)
+-   Tolga Can - [tolgacan@mines.edu](mailto:tolgacan@mines.edu)
 
